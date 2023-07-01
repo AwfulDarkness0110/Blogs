@@ -1,0 +1,2281 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://backendless.com/redis-what-it-is-what-it-does-and-why-you-should-care/
+Subject: Redis: What It Is, What It Does, and Why You Should Care | Backendless
+Date: Mon, 26 Jun 2023 14:34:11 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--LYFX53nwc4bj02x18ajuOTdrQutRO7tSD7HzVjUOdY----"
+
+
+------MultipartBoundary--LYFX53nwc4bj02x18ajuOTdrQutRO7tSD7HzVjUOdY----
+Content-Type: text/html
+Content-ID: <frame-97698FD8F8F0CAB1BA92BDEB73ABF352@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://backendless.com/redis-what-it-is-what-it-does-and-why-you-should-care/
+
+<!DOCTYPE html><html lang=3D"en" xml:lang=3D"en" xmlns=3D"http://www.w3.org=
+/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
+-f6672622-b4b7-421c-92b5-2e841fc31eb5@mhtml.blink" /><link rel=3D"styleshee=
+t" type=3D"text/css" href=3D"cid:css-3a0accc6-9894-40d8-ab07-d51fa20e3b20@m=
+html.blink" />
+
+   =20
+    <meta http-equiv=3D"Content-Language" content=3D"en">
+    <meta http-equiv=3D"x-ua-compatible" content=3D"ie=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0, minimum-scale=3D1.0, maximum-scale=3D1.0, user-scalable=3Dno">
+
+    <link rel=3D"apple-touch-icon" sizes=3D"180x180" href=3D"https://cdn-3.=
+backendless.com/wp-content/themes/backendless/assets/images/favicons/apple-=
+touch-icon.png">
+    <link rel=3D"icon" type=3D"image/png" sizes=3D"32x32" href=3D"https://c=
+dn-2.backendless.com/wp-content/themes/backendless/assets/images/favicons/f=
+avicon-32x32.png">
+    <link rel=3D"icon" type=3D"image/png" sizes=3D"16x16" href=3D"https://c=
+dn-1.backendless.com/wp-content/themes/backendless/assets/images/favicons/f=
+avicon-16x16.png">
+    <link rel=3D"manifest" href=3D"https://cdn-3.backendless.com/wp-content=
+/themes/backendless/assets/images/favicons/site.webmanifest">
+    <link rel=3D"mask-icon" href=3D"https://cdn-2.backendless.com/wp-conten=
+t/themes/backendless/assets/images/favicons/safari-pinned-tab.svg" color=3D=
+"#5bbad5">
+    <link rel=3D"shortcut icon" href=3D"https://cdn-1.backendless.com/wp-co=
+ntent/themes/backendless/assets/images/favicons/favicon.ico">
+    <meta name=3D"msapplication-TileColor" content=3D"#da532c">
+    <meta name=3D"msapplication-config" content=3D"https://cdn-1.backendles=
+s.com/wp-content/themes/backendless/assets/images/favicons/browserconfig.xm=
+l">
+    <meta name=3D"theme-color" content=3D"#ffffff">
+
+   =20
+   =20
+	<!-- This site is optimized with the Yoast SEO plugin v15.4 - https://yoas=
+t.com/wordpress/plugins/seo/ -->
+	<title>Redis: What It Is, What It Does, and Why You Should Care | Backendl=
+ess</title><link rel=3D"preload" as=3D"style" href=3D"https://fonts.googlea=
+pis.com/css?family=3DSource%20Sans%20Pro%3A400%2C400i%2C600%2C600i&amp;subs=
+et=3Dcyrillic%2Ccyrillic-ext%2Clatin-ext&amp;display=3Dswap"><link rel=3D"s=
+tylesheet" href=3D"https://fonts.googleapis.com/css?family=3DSource%20Sans%=
+20Pro%3A400%2C400i%2C600%2C600i&amp;subset=3Dcyrillic%2Ccyrillic-ext%2Clati=
+n-ext&amp;display=3Dswap" media=3D"all"><link rel=3D"preload" href=3D"https=
+://cdn-1.backendless.com/wp-content/cache/min/1/ff525ed9b1549effec4d4abf012=
+a3670.css" data-rocket-async=3D"style" as=3D"style" media=3D"all" data-mini=
+fy=3D"1">
+	<meta name=3D"description" content=3D"Redis is an open-source in-memory da=
+ta structure store that can be used as a database, cache, and message broke=
+r. Here you'll learn how it works.">
+	<meta name=3D"robots" content=3D"index, follow, max-snippet:-1, max-image-=
+preview:large, max-video-preview:-1">
+	<link rel=3D"canonical" href=3D"https://backendless.com/redis-what-it-is-w=
+hat-it-does-and-why-you-should-care/">
+	<meta property=3D"og:locale" content=3D"en_US">
+	<meta property=3D"og:type" content=3D"article">
+	<meta property=3D"og:title" content=3D"Redis: What It Is, What It Does, an=
+d Why You Should Care | Backendless">
+	<meta property=3D"og:description" content=3D"Redis is an open-source in-me=
+mory data structure store that can be used as a database, cache, and messag=
+e broker. Here you'll learn how it works.">
+	<meta property=3D"og:url" content=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/">
+	<meta property=3D"og:site_name" content=3D"Backendless">
+	<meta property=3D"article:publisher" content=3D"https://www.facebook.com/b=
+ackendless">
+	<meta property=3D"article:published_time" content=3D"2022-12-09T17:00:29+0=
+0:00">
+	<meta property=3D"article:modified_time" content=3D"2023-05-22T20:29:36+00=
+:00">
+	<meta property=3D"og:image" content=3D"https://cdn-1.backendless.com/wp-co=
+ntent/uploads/2022/12/Redis-What-it-is-what-it-does-why-you-should-care.png=
+">
+	<meta property=3D"og:image:width" content=3D"800">
+	<meta property=3D"og:image:height" content=3D"515">
+	<meta name=3D"twitter:card" content=3D"summary_large_image">
+	<meta name=3D"twitter:creator" content=3D"@backendless">
+	<meta name=3D"twitter:site" content=3D"@backendless">
+	<meta name=3D"twitter:label1" content=3D"Written by">
+	<meta name=3D"twitter:data1" content=3D"Christopher Fanchi">
+	<meta name=3D"twitter:label2" content=3D"Est. reading time">
+	<meta name=3D"twitter:data2" content=3D"10 minutes">
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel=3D"dns-prefetch" href=3D"https://cdn-1.backendless.com/">
+<link rel=3D"dns-prefetch" href=3D"https://cdn-2.backendless.com/">
+<link rel=3D"dns-prefetch" href=3D"https://cdn-3.backendless.com/">
+<link href=3D"https://fonts.gstatic.com/" crossorigin=3D"" rel=3D"preconnec=
+t">
+<link href=3D"https://cdn-1.backendless.com/" rel=3D"preconnect">
+<link href=3D"https://cdn-2.backendless.com/" rel=3D"preconnect">
+<link href=3D"https://cdn-3.backendless.com/" rel=3D"preconnect">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel=3D"https://api.w.org/" href=3D"https://backendless.com/wp-json/">=
+<link rel=3D"alternate" type=3D"application/json" href=3D"https://backendle=
+ss.com/wp-json/wp/v2/posts/21472"><link rel=3D"shortlink" href=3D"https://b=
+ackendless.com/?p=3D21472">
+<link rel=3D"alternate" type=3D"application/json+oembed" href=3D"https://ba=
+ckendless.com/wp-json/oembed/1.0/embed?url=3Dhttps%3A%2F%2Fbackendless.com%=
+2Fredis-what-it-is-what-it-does-and-why-you-should-care%2F">
+<link rel=3D"alternate" type=3D"text/xml+oembed" href=3D"https://backendles=
+s.com/wp-json/oembed/1.0/embed?url=3Dhttps%3A%2F%2Fbackendless.com%2Fredis-=
+what-it-is-what-it-does-and-why-you-should-care%2F&amp;format=3Dxml">
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.5 - https://schem=
+a.press -->
+
+
+<meta name=3D"generator" content=3D"Powered by WPBakery Page Builder - drag=
+ and drop page builder for WordPress.">
+<link rel=3D"icon" href=3D"https://cdn-1.backendless.com/wp-content/uploads=
+/2019/03/cropped-Favicon-32x32.png" sizes=3D"32x32">
+<link rel=3D"icon" href=3D"https://cdn-2.backendless.com/wp-content/uploads=
+/2019/03/cropped-Favicon-192x192.png" sizes=3D"192x192">
+<link rel=3D"apple-touch-icon" href=3D"https://cdn-1.backendless.com/wp-con=
+tent/uploads/2019/03/cropped-Favicon-180x180.png">
+<meta name=3D"msapplication-TileImage" content=3D"https://cdn-3.backendless=
+.com/wp-content/uploads/2019/03/cropped-Favicon-270x270.png">
+
+   =20
+</head>
+<body class=3D"post-template-default single single-post postid-21472 single=
+-format-standard wpb-js-composer js-comp-ver-6.4.1 vc_responsive">
+<div class=3D"wrapper">
+
+   =20
+
+    <header class=3D"header">
+        <div class=3D"header-wrapper show">
+            <div class=3D"container">
+                <button class=3D"header__burger"><span></span></button>
+                <div class=3D"header__logo">
+                    <a class=3D"header__logo-link" href=3D"https://backendl=
+ess.com/">
+                        Backendless                    </a>
+                </div>
+
+                <div class=3D"header__menu">
+                    <ul id=3D"menu-header-menu" class=3D"menu"><li id=3D"me=
+nu-item-288" class=3D"menu-item menu-item-type-post_type menu-item-object-p=
+age menu-item-288"><a href=3D"https://backendless.com/features/">Features</=
+a></li>
+<li id=3D"menu-item-58" class=3D"menu-item menu-item-type-post_type menu-it=
+em-object-page menu-item-58"><a href=3D"https://backendless.com/pricing/">P=
+ricing</a></li>
+<li id=3D"menu-item-20398" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-page menu-item-20398"><a href=3D"https://backendless.com/marke=
+tplace/">Marketplace</a></li>
+<li id=3D"menu-item-9638" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-has-children menu-item-9638"><a>Developers</a>
+<ul class=3D"sub-menu">
+	<li id=3D"menu-item-36" class=3D"menu-item menu-item-type-custom menu-item=
+-object-custom menu-item-has-children menu-item-36"><a href=3D"https://back=
+endless.com/developers/"><span class=3D"icon" style=3D"background-image:url=
+(https://cdn-3.backendless.com/wp-content/uploads/2019/01/languages.svg"></=
+span>Languages</a>
+	<ul class=3D"sub-menu">
+		<li id=3D"menu-item-42" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-42"><a href=3D"https://backendless.com/developers=
+/#javascript"><span class=3D"icon" style=3D"background-image:url(https://cd=
+n-3.backendless.com/wp-content/uploads/2019/02/Javascript.svg"></span>Javas=
+cript</a></li>
+		<li id=3D"menu-item-18561" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-18561"><a href=3D"https://backendless.com/deve=
+lopers/#ui-builder"><span class=3D"icon" style=3D"background-image:url(http=
+s://cdn-1.backendless.com/wp-content/uploads/2019/03/Favicon.png"></span>UI=
+ Builder</a></li>
+		<li id=3D"menu-item-10597" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-10597"><a href=3D"https://backendless.com/deve=
+lopers/#flutter"><span class=3D"icon" style=3D"background-image:url(https:/=
+/cdn-1.backendless.com/wp-content/uploads/2019/07/flutterlogo.png"></span>F=
+lutter</a></li>
+		<li id=3D"menu-item-38" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-38"><a href=3D"https://backendless.com/developers=
+/#android"><span class=3D"icon" style=3D"background-image:url(https://cdn-2=
+.backendless.com/wp-content/uploads/2019/01/Vector-3.svg"></span>Java/Andro=
+id</a></li>
+		<li id=3D"menu-item-41" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-41"><a href=3D"https://backendless.com/developers=
+/#ios"><span class=3D"icon" style=3D"background-image:url(https://cdn-2.bac=
+kendless.com/wp-content/uploads/2019/04/icons8-apple-logo-96.svg"></span>iO=
+S</a></li>
+		<li id=3D"menu-item-44" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-44"><a href=3D"https://backendless.com/developers=
+/#net"><span class=3D"icon" style=3D"background-image:url(https://cdn-3.bac=
+kendless.com/wp-content/uploads/2019/04/dotnet.svg"></span>.NET</a></li>
+		<li id=3D"menu-item-43" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-43"><a href=3D"https://backendless.com/developers=
+/#rest-api"><span class=3D"icon" style=3D"background-image:url(https://cdn-=
+2.backendless.com/wp-content/uploads/2019/02/RestAPI.svg"></span>REST API</=
+a></li>
+		<li id=3D"menu-item-40" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-40"><a href=3D"https://backendless.com/developers=
+/#codeless"><span class=3D"icon" style=3D"background-image:url(https://cdn-=
+1.backendless.com/wp-content/uploads/2019/07/codeless-pieces.png"></span>Co=
+deless</a></li>
+		<li id=3D"menu-item-39" class=3D"menu-item menu-item-type-custom menu-ite=
+m-object-custom menu-item-39"><a href=3D"https://backendless.com/developers=
+/#cloud-code"><span class=3D"icon" style=3D"background-image:url(https://cd=
+n-1.backendless.com/wp-content/uploads/2019/02/CloudCodeJs.svg"></span>Clou=
+d Code</a></li>
+	</ul>
+</li>
+	<li id=3D"menu-item-17155" class=3D"menu-item menu-item-type-custom menu-i=
+tem-object-custom menu-item-has-children menu-item-17155"><a href=3D"https:=
+//backendless.com/blog/?category_name=3Dintegrations&amp;cn=3Dintegrations&=
+amp;s=3D"><span class=3D"icon" style=3D"background-image:url(https://cdn-3.=
+backendless.com/wp-content/uploads/2020/11/Integrations.png"></span>Integra=
+tions</a>
+	<ul class=3D"sub-menu">
+		<li id=3D"menu-item-20610" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-20610"><a href=3D"https://backendless.com/inte=
+grate-with-over-1000-apps-using-integromat-make/"><span class=3D"icon" styl=
+e=3D"background-image:url(https://cdn-1.backendless.com/wp-content/uploads/=
+2022/04/Make-Logo-formerly-Integromat-sqaure.jpg"></span>Make / Integromat<=
+/a></li>
+		<li id=3D"menu-item-18563" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-18563"><a href=3D"https://backendless.com/inte=
+grate-backendless-with-3000-web-apps-using-zapier/"><span class=3D"icon" st=
+yle=3D"background-image:url(https://cdn-3.backendless.com/wp-content/upload=
+s/2021/04/Zapier.png"></span>Zapier</a></li>
+		<li id=3D"menu-item-22002" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-22002"><a href=3D"https://backendless.com/how-=
+to-integrate-flutterflow-with-backendless/"><span class=3D"icon" style=3D"b=
+ackground-image:url(https://cdn-2.backendless.com/wp-content/uploads/2023/0=
+3/ff_logo_small.png"></span>FlutterFlow</a></li>
+		<li id=3D"menu-item-17175" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-17175"><a href=3D"https://backendless.com/how-=
+to-integrate-bubble-io-with-backendless/"><span class=3D"icon" style=3D"bac=
+kground-image:url(https://cdn-2.backendless.com/wp-content/uploads/2020/11/=
+Bubble_io.png"></span>Bubble</a></li>
+		<li id=3D"menu-item-17173" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-17173"><a href=3D"https://backendless.com/how-=
+to-integrate-adalo-with-backendless/"><span class=3D"icon" style=3D"backgro=
+und-image:url(https://cdn-3.backendless.com/wp-content/uploads/2020/11/Adal=
+o.png"></span>Adalo</a></li>
+		<li id=3D"menu-item-17179" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-17179"><a href=3D"https://backendless.com/how-=
+to-integrate-appgyver-with-backendless/"><span class=3D"icon" style=3D"back=
+ground-image:url(https://cdn-2.backendless.com/wp-content/uploads/2020/11/A=
+ppGyver.png"></span>AppGyver</a></li>
+		<li id=3D"menu-item-19163" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-19163"><a href=3D"https://www.bravostudio.app/=
+post/mobile-frontendless-photo-sharing-app-using-figma-and-backendless"><sp=
+an class=3D"icon" style=3D"background-image:url(https://cdn-1.backendless.c=
+om/wp-content/uploads/2021/06/Bravo_Studio.png"></span>Bravo Studio</a></li=
+>
+		<li id=3D"menu-item-17597" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-17597"><a href=3D"https://docs.draftbit.com/do=
+cs/backendless"><span class=3D"icon" style=3D"background-image:url(https://=
+cdn-2.backendless.com/wp-content/uploads/2020/12/Draftbit.png"></span>Draft=
+bit</a></li>
+		<li id=3D"menu-item-18567" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-18567"><a href=3D"https://backendless.com/how-=
+to-integrate-dronahq-with-backendless/"><span class=3D"icon" style=3D"backg=
+round-image:url(https://cdn-3.backendless.com/wp-content/uploads/2021/04/Dr=
+onaHQ.png"></span>DronaHQ</a></li>
+		<li id=3D"menu-item-18565" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-18565"><a href=3D"https://backendless.com/how-=
+to-integrate-retool-with-backendless/"><span class=3D"icon" style=3D"backgr=
+ound-image:url(https://cdn-2.backendless.com/wp-content/uploads/2021/04/Ret=
+ool.png"></span>Retool</a></li>
+		<li id=3D"menu-item-17177" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-17177"><a href=3D"https://backendless.com/how-=
+to-integrate-thunkable-with-backendless/"><span class=3D"icon" style=3D"bac=
+kground-image:url(https://cdn-1.backendless.com/wp-content/uploads/2020/11/=
+Thunkable.png"></span>Thunkable</a></li>
+		<li id=3D"menu-item-17181" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-17181"><a href=3D"https://backendless.com/how-=
+to-integrate-ui-bakery-with-backendless/"><span class=3D"icon" style=3D"bac=
+kground-image:url(https://cdn-2.backendless.com/wp-content/uploads/2020/11/=
+UI_Bakery.png"></span>UI Bakery</a></li>
+		<li id=3D"menu-item-17395" class=3D"menu-item menu-item-type-post_type me=
+nu-item-object-post menu-item-17395"><a href=3D"https://backendless.com/how=
+-to-integrate-webflow-with-backendless/"><span class=3D"icon" style=3D"back=
+ground-image:url(https://cdn-2.backendless.com/wp-content/uploads/2020/12/W=
+ebflow.png"></span>Webflow</a></li>
+		<li id=3D"menu-item-17171" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-17171"><a href=3D"https://backendless.com/how-=
+to-integrate-wix-with-backendless/"><span class=3D"icon" style=3D"backgroun=
+d-image:url(https://cdn-1.backendless.com/wp-content/uploads/2020/11/Wix.pn=
+g"></span>Wix</a></li>
+	</ul>
+</li>
+	<li id=3D"menu-item-48" class=3D"menu-item menu-item-type-custom menu-item=
+-object-custom menu-item-48"><a target=3D"_blank" rel=3D"noopener noreferre=
+r" href=3D"https://www.youtube.com/playlist?list=3DPLWRqDbbT5r9A04D0Qsaee2E=
+RvRxnEi1xw"><span class=3D"icon" style=3D"background-image:url(https://cdn-=
+1.backendless.com/wp-content/uploads/2019/01/Vector.svg"></span>Video Tutor=
+ials</a></li>
+	<li id=3D"menu-item-50" class=3D"menu-item menu-item-type-custom menu-item=
+-object-custom menu-item-50"><a href=3D"https://backendless.com/release-his=
+tory/"><span class=3D"icon" style=3D"background-image:url(https://cdn-2.bac=
+kendless.com/wp-content/uploads/2019/01/Vector-2.svg"></span>Release Histor=
+y</a></li>
+</ul>
+</li>
+<li id=3D"menu-item-20469" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-has-children menu-item-20469"><a>Company</a>
+<ul class=3D"sub-menu">
+	<li id=3D"menu-item-640" class=3D"menu-item menu-item-type-post_type menu-=
+item-object-page menu-item-640"><a href=3D"https://backendless.com/support/=
+">Support</a></li>
+	<li id=3D"menu-item-317" class=3D"menu-item menu-item-type-post_type menu-=
+item-object-page current_page_parent menu-item-317"><a href=3D"https://back=
+endless.com/blog/">Blog</a></li>
+	<li id=3D"menu-item-20417" class=3D"menu-item menu-item-type-custom menu-i=
+tem-object-custom menu-item-20417"><a href=3D"https://backendless.consultin=
+g/">Backendless Consulting</a></li>
+	<li id=3D"menu-item-186" class=3D"menu-item menu-item-type-post_type menu-=
+item-object-page menu-item-has-children menu-item-186"><a href=3D"https://b=
+ackendless.com/customers/">Customers</a>
+	<ul class=3D"sub-menu">
+		<li id=3D"menu-item-14147" class=3D"menu-item menu-item-type-post_type me=
+nu-item-object-page menu-item-14147"><a href=3D"https://backendless.com/app=
+-gallery/"><span class=3D"icon" style=3D"background-image:url(https://cdn-1=
+.backendless.com/wp-content/uploads/2020/02/app_gallery.png"></span>App Gal=
+lery</a></li>
+		<li id=3D"menu-item-22042" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-22042"><a href=3D"https://backendless.com/clie=
+nt/findmyplus1/"><span class=3D"icon" style=3D"background-image:url(https:/=
+/cdn-1.backendless.com/wp-content/uploads/2023/03/FindMy1-Logo.png"></span>=
+FindMy+1</a></li>
+		<li id=3D"menu-item-14171" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-14171"><a href=3D"https://backendless.com/clie=
+nt/stayshure/"><span class=3D"icon" style=3D"background-image:url(https://c=
+dn-2.backendless.com/wp-content/uploads/2021/10/stayshure-logomark-on-purpl=
+e-gradient-Alex-P.png"></span>StayShure</a></li>
+		<li id=3D"menu-item-21829" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-21829"><a href=3D"https://backendless.com/clie=
+nt/delevante-technologies/"><span class=3D"icon" style=3D"background-image:=
+url(https://cdn-2.backendless.com/wp-content/uploads/2023/02/Delevante_logo=
+.png"></span>Delevante Technologies</a></li>
+		<li id=3D"menu-item-14167" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-14167"><a href=3D"https://backendless.com/clie=
+nt/bettercast-io/"><span class=3D"icon" style=3D"background-image:url(https=
+://cdn-2.backendless.com/wp-content/uploads/2021/02/bettercast-logo1.png"><=
+/span>Bettercast</a></li>
+		<li id=3D"menu-item-14173" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-14173"><a href=3D"https://backendless.com/clie=
+nt/second-warehouse/"><span class=3D"icon" style=3D"background-image:url(ht=
+tps://cdn-3.backendless.com/wp-content/uploads/2020/04/Second-Warehouse-Ico=
+n.png"></span>Second Warehouse</a></li>
+		<li id=3D"menu-item-14151" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-14151"><a href=3D"https://backendless.com/clie=
+nt/bank-al-etihad/"><span class=3D"icon" style=3D"background-image:url(http=
+s://cdn-2.backendless.com/wp-content/uploads/2020/01/Bank-al-Etihad-App-Log=
+o.png"></span>Bank al Etihad</a></li>
+		<li id=3D"menu-item-14153" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-14153"><a href=3D"https://backendless.com/clie=
+nt/funx/"><span class=3D"icon" style=3D"background-image:url(https://cdn-1.=
+backendless.com/wp-content/uploads/2020/01/Digital-Copel-App-Logo.png"></sp=
+an>Funx</a></li>
+		<li id=3D"menu-item-14157" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-14157"><a href=3D"https://backendless.com/clie=
+nt/ytcount/"><span class=3D"icon" style=3D"background-image:url(https://cdn=
+-2.backendless.com/wp-content/uploads/2020/01/YTCount-App-Logo.png"></span>=
+YTCount</a></li>
+		<li id=3D"menu-item-14169" class=3D"menu-item menu-item-type-custom menu-=
+item-object-custom menu-item-14169"><a href=3D"https://backendless.com/clie=
+nt/btc-market-ticker/"><span class=3D"icon" style=3D"background-image:url(h=
+ttps://cdn-3.backendless.com/wp-content/uploads/2020/01/BTC-Market-Ticker-A=
+pp-Logo.png"></span>BTC Market Ticker</a></li>
+	</ul>
+</li>
+	<li id=3D"menu-item-19560" class=3D"menu-item menu-item-type-post_type men=
+u-item-object-page menu-item-19560"><a href=3D"https://backendless.com/pric=
+ing/partner-plan/">Partner Program</a></li>
+	<li id=3D"menu-item-19559" class=3D"menu-item menu-item-type-post_type men=
+u-item-object-page menu-item-19559"><a href=3D"https://backendless.com/part=
+ners/">Find A Partner</a></li>
+	<li id=3D"menu-item-19558" class=3D"menu-item menu-item-type-post_type men=
+u-item-object-page menu-item-19558"><a href=3D"https://backendless.com/affi=
+liate/">Affiliate Program</a></li>
+</ul>
+</li>
+</ul>                </div>
+
+                <div class=3D"header__aside">
+                    <a href=3D"https://develop.backendless.com/login" class=
+=3D"header__aside__button header__aside__button--login button button--trans=
+parent">Log In</a>
+                    <a href=3D"https://develop.backendless.com/registration=
+" class=3D"header__aside__button header__aside__button--signup button">Sign=
+ Up</a>
+                    <a href=3D"https://develop.backendless.com/login" class=
+=3D"header__aside__button header__aside__button--signup-mobile button">Sign=
+ Up</a>
+
+                </div>
+
+            </div>
+        </div>
+    </header>
+
+=20
+
+
+
+
+    <div class=3D"post-page">
+
+        <div class=3D"blog-top-panel-wrapper">
+    <div class=3D"blog-top-panel">
+        <div class=3D"container">
+            <div class=3D"blog-top-panel__title">
+                                    Blog                            </div>
+
+            <form class=3D"blog-top-panel__form" action=3D"https://backendl=
+ess.com/blog/">
+                <div class=3D"control-row">
+                    <div class=3D"control-wrapper">
+                       =20
+                        <select class=3D"control control--select" data-plac=
+eholder=3D"All Categories" name=3D"cn" autocomplete=3D"off" fdprocessedid=
+=3D"b7nm3c">
+                            <option value=3D"all">All Categories</option>
+                                                            <option value=
+=3D"net">.NET</option>
+                                                            <option value=
+=3D"actionscript">ActionScript</option>
+                                                            <option value=
+=3D"alexa">Alexa</option>
+                                                            <option value=
+=3D"amazon">Amazon</option>
+                                                            <option value=
+=3D"android">Android</option>
+                                                            <option value=
+=3D"angular">Angular</option>
+                                                            <option value=
+=3D"api-change">API Change</option>
+                                                            <option value=
+=3D"api-engine">API Engine</option>
+                                                            <option value=
+=3D"api-services">API Services</option>
+                                                            <option value=
+=3D"app-blueprints">App Blueprints</option>
+                                                            <option value=
+=3D"atomic-counters">Atomic Counters</option>
+                                                            <option value=
+=3D"authentication">Authentication</option>
+                                                            <option value=
+=3D"backendless-features">Backendless Features</option>
+                                                            <option value=
+=3D"backendless-marketplace">Backendless Marketplace</option>
+                                                            <option value=
+=3D"backendlessnews">Backendless News</option>
+                                                            <option value=
+=3D"backendless-pro">Backendless Pro</option>
+                                                            <option value=
+=3D"backendless-spotlight">Backendless Spotlight</option>
+                                                            <option value=
+=3D"backendless-university">Backendless University</option>
+                                                            <option value=
+=3D"backendless-viewer">Backendless Viewer</option>
+                                                            <option value=
+=3D"best-practice">Best Practice</option>
+                                                            <option value=
+=3D"caching">Caching</option>
+                                                            <option value=
+=3D"case-study">Case Study</option>
+                                                            <option value=
+=3D"cloud-code">Cloud Code</option>
+                                                            <option value=
+=3D"cloud-enterprise">Cloud Enterprise</option>
+                                                            <option value=
+=3D"code-generation">Code generation</option>
+                                                            <option value=
+=3D"codeless">Codeless</option>
+                                                            <option value=
+=3D"coderunner">CodeRunner</option>
+                                                            <option value=
+=3D"comparison">Comparison</option>
+                                                            <option value=
+=3D"corona">Corona</option>
+                                                            <option value=
+=3D"data-import">Data Import</option>
+                                                            <option value=
+=3D"data-service">Data Service</option>
+                                                            <option value=
+=3D"database">Database</option>
+                                                            <option value=
+=3D"email-marketing">Email Marketing</option>
+                                                            <option value=
+=3D"enterprise">Enterprise</option>
+                                                            <option value=
+=3D"examples">Examples</option>
+                                                            <option value=
+=3D"faster-time-to-market">Faster Time To Market</option>
+                                                            <option value=
+=3D"feature-a-day">Feature-a-Day</option>
+                                                            <option value=
+=3D"file-service">File Service</option>
+                                                            <option value=
+=3D"flutter">Flutter</option>
+                                                            <option value=
+=3D"geolocation">Geolocation</option>
+                                                            <option value=
+=3D"graphql">GraphQL</option>
+                                                            <option value=
+=3D"hive">Hive</option>
+                                                            <option value=
+=3D"integrations">Integrations</option>
+                                                            <option value=
+=3D"integromat-make">Integromat (Make)</option>
+                                                            <option value=
+=3D"ios">iOS</option>
+                                                            <option value=
+=3D"java">Java</option>
+                                                            <option value=
+=3D"javascript">JavaScript</option>
+                                                            <option value=
+=3D"logging">Logging</option>
+                                                            <option value=
+=3D"marketplace">Marketplace</option>
+                                                            <option value=
+=3D"media-service">Media Service</option>
+                                                            <option value=
+=3D"messaging">Messaging</option>
+                                                            <option value=
+=3D"navigator">Navigator</option>
+                                                            <option value=
+=3D"node-js">node.js</option>
+                                                            <option value=
+=3D"parse">Parse</option>
+                                                            <option value=
+=3D"powered-by">Powered By</option>
+                                                            <option value=
+=3D"press-release">Press Release</option>
+                                                            <option value=
+=3D"pricing-and-licensing">Pricing and Licensing</option>
+                                                            <option value=
+=3D"professional-services">Professional Services</option>
+                                                            <option value=
+=3D"push-notification">Push Notification</option>
+                                                            <option value=
+=3D"rapid-prototyping-and-iteration">Rapid Prototyping and Iteration</optio=
+n>
+                                                            <option value=
+=3D"react-native">React Native</option>
+                                                            <option value=
+=3D"reactjs">ReactJS</option>
+                                                            <option value=
+=3D"real-time-database">Real Time Database</option>
+                                                            <option value=
+=3D"rest">REST</option>
+                                                            <option value=
+=3D"save-money">Save Money</option>
+                                                            <option value=
+=3D"secure-scalability-and-hosting">Secure Scalability and Hosting</option>
+                                                            <option value=
+=3D"security">Security</option>
+                                                            <option value=
+=3D"server-code">Server Code</option>
+                                                            <option value=
+=3D"simplified-app-development">Simplified App Development</option>
+                                                            <option value=
+=3D"standalone-backendless">Standalone Backendless</option>
+                                                            <option value=
+=3D"status">Status</option>
+                                                            <option value=
+=3D"status-update">Status Update</option>
+                                                            <option value=
+=3D"stripe">Stripe</option>
+                                                            <option value=
+=3D"tizen">Tizen</option>
+                                                            <option value=
+=3D"tvos">tvOS</option>
+                                                            <option value=
+=3D"typescript">TypeScript</option>
+                                                            <option value=
+=3D"ui-builder">UI Builder</option>
+                                                            <option value=
+=3D"uncategorized">Uncategorized</option>
+                                                            <option value=
+=3D"user-service">User Service</option>
+                                                            <option value=
+=3D"video">Video</option>
+                                                            <option value=
+=3D"views">Views</option>
+                                                            <option value=
+=3D"web-app">Web App</option>
+                                                            <option value=
+=3D"webinar">Webinar</option>
+                                                            <option value=
+=3D"xamarin">Xamarin</option>
+                                                            <option value=
+=3D"zapier">Zapier</option>
+                                                    </select>
+                    </div>
+                </div>
+                <div class=3D"control-row">
+                    <div class=3D"control-wrapper blog-top-panel__form__sea=
+rch">
+                        <input class=3D"control control--input" type=3D"tex=
+t" placeholder=3D"Search" name=3D"s" autocomplete=3D"off" value=3D"" fdproc=
+essedid=3D"0cqwos">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+        <div class=3D"post-page__header">
+            <div class=3D"container">
+                <div class=3D"post-page__header-wrapper">
+
+                    <div class=3D"post-page__header-info">
+                        <h1 class=3D"title post-page__header-title">Redis: =
+What It Is, What It Does, and Why You Should Care</h1>
+                        <div class=3D"post-page__header-author">
+                            by <a href=3D"https://backendless.com/author/ch=
+ris-fanchi/" title=3D"Posts by Christopher Fanchi" rel=3D"author">Christoph=
+er Fanchi</a>                                                        on <a =
+href=3D"https://backendless.com/2022/12/09/">December 9, 2022</a>
+                        </div>
+                        <div class=3D"post-page__header-tags"></div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+
+        <div class=3D"container">
+            <div class=3D"post-page-wrapper">
+                <div class=3D"post-page__content">
+                    <div class=3D"vc_row wpb_row vc_row-fluid"><div class=
+=3D"wpb_column vc_column_container vc_col-sm-12"><div class=3D"vc_column-in=
+ner"><div class=3D"wpb_wrapper">
+	<div class=3D"wpb_single_image wpb_content_element vc_align_center">
+	=09
+		<figure class=3D"wpb_wrapper vc_figure">
+			<div class=3D"vc_single_image-wrapper   vc_box_border_grey"><img class=
+=3D"vc_single_image-img " src=3D"data:image/svg+xml,%3Csvg%20xmlns=3D'http:=
+//www.w3.org/2000/svg'%20viewBox=3D'0%200%20800%20515'%3E%3C/svg%3E" width=
+=3D"800" height=3D"515" alt=3D"Redis - What it is, what it does, why you sh=
+ould care" title=3D"Redis - What it is, what it does, why you should care" =
+data-lazy-src=3D"https://cdn-1.backendless.com/wp-content/uploads/2022/12/R=
+edis-What-it-is-what-it-does-why-you-should-care.png" data-xblocker=3D"pass=
+ed" style=3D"visibility: visible;"></div>
+		</figure>
+	</div>
+
+	<div class=3D"wpb_text_column wpb_content_element ">
+		<div class=3D"wpb_wrapper">
+			<p>Redis is an open source in-memory data store that can be used as a da=
+tabase, cache, or message broker. It=E2=80=99s often used for caching web p=
+ages and reducing the load on servers.</p>
+<p><span id=3D"more-21472"></span></p>
+<p>Redis also has some features that make it attractive for use as a databa=
+se, such as support for transactions and publish/subscribe messaging. Howev=
+er, it doesn=E2=80=99t have all the features of a traditional database like=
+ MySQL or MongoDB.</p>
+<p>In this blog post, we=E2=80=99ll take a look at what Redis is, what it d=
+oes, and why you might want to consider using it in your next project.</p>
+<p>We=E2=80=99ll also take a look at some of the benefits and drawbacks of =
+using Redis for caching.</p>
+<h2>Table of Contents</h2>
+
+		</div>
+	</div>
+<div class=3D"vc_tta-container" data-vc-action=3D"collapseAll"><div class=
+=3D"vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat =
+vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-left vc_tta=
+-o-all-clickable"><div class=3D"vc_tta-panels-container"><div class=3D"vc_t=
+ta-panels"><div class=3D"vc_tta-panel" id=3D"1670599762368-db4223a0-cc7a" d=
+ata-vc-content=3D".vc_tta-panel-body"><div class=3D"vc_tta-panel-heading"><=
+h4 class=3D"vc_tta-panel-title vc_tta-controls-icon-position-left"><a href=
+=3D"https://backendless.com/redis-what-it-is-what-it-does-and-why-you-shoul=
+d-care/#1670599762368-db4223a0-cc7a" data-vc-accordion=3D"" data-vc-contain=
+er=3D".vc_tta-container"><span class=3D"vc_tta-title-text">Expand</span><i =
+class=3D"vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div=
+><div class=3D"vc_tta-panel-body">
+	<div class=3D"wpb_text_column wpb_content_element ">
+		<div class=3D"wpb_wrapper">
+			<table style=3D"border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#what-is-redis">What is Redis?</a>=
+</td>
+</tr>
+<tr>
+<td style=3D"width: 100%;">&nbsp; &nbsp; <a href=3D"https://backendless.com=
+/redis-what-it-is-what-it-does-and-why-you-should-care/#in-memory-database"=
+>In-memory database</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#redis-persistence">Redis persiste=
+nce</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#what-is-redis-used-for">What is R=
+edis used for?</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#key-value-pairs">What are key-val=
+ue pairs?</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#rich-data-structures">Rich data s=
+tructures</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#chat-and-messaging">Chat and mess=
+aging applications</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#session-store">Session store</a><=
+/td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#benefits-of-redis">What are the b=
+enefits of Redis?</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#lua-scripting">What is Lua script=
+ing?</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#drawbacks-of-redis">What are the =
+drawbacks of using Redis?</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#closing">Closing</a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;"><a href=3D"https://backendless.com/redis-what-it=
+-is-what-it-does-and-why-you-should-care/#faq">Frequently Asked Questions</=
+a></td>
+</tr>
+<tr>
+<td style=3D"width: 100%;">&nbsp; &nbsp; <a href=3D"https://backendless.com=
+/redis-what-it-is-what-it-does-and-why-you-should-care/#redis-vs-nosql">How=
+ does Redis compare to other NoSQL database systems?</a></td>
+</tr>
+</tbody>
+</table>
+<p><!--more--></p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div>
+	<div class=3D"wpb_text_column wpb_content_element ">
+		<div class=3D"wpb_wrapper">
+			<h2><a id=3D"what-is-redis"></a>What is Redis?</h2>
+<p><a href=3D"https://redis.com/" target=3D"_blank" rel=3D"noopener norefer=
+rer">Redis</a> is an open source in-memory data store that works really wel=
+l as a cache or message broker, but it can also be used as a database when =
+you don=E2=80=99t need all the features of a traditional database. It offer=
+s excellent performance, with the ability to quickly read and write data to=
+ memory. Additionally, Redis supports atomic operations, making it ideal fo=
+r caching scenarios where you need fast access time.</p>
+<h3><a id=3D"in-memory-database"></a>In-memory database</h3>
+<p>An in-memory database is a type of database that stores data entirely in=
+ main memory (RAM) rather than on disk. In-memory databases are designed to=
+ provide fast access to data by leveraging the high speed of main memory, w=
+hich is several orders of magnitude faster than disk storage.</p>
+<p>In-memory databases are commonly used in applications that require fast =
+access to large amounts of data, such as real-time analytics, online gaming=
+, e-commerce, and social media. They are also used in applications that req=
+uire high performance and <a href=3D"https://backendless.com/what-is-app-sc=
+aling-and-why-it-matters/">scalability</a>, as in-memory databases can hand=
+le high volumes of data and transactions without sacrificing performance.</=
+p>
+<p><a href=3D"https://cdn-3.backendless.com/wp-content/uploads/2022/12/How-=
+Redis-typically-works.png"><img class=3D"border-image aligncenter wp-image-=
+21477 size-full" src=3D"data:image/svg+xml,%3Csvg%20xmlns=3D'http://www.w3.=
+org/2000/svg'%20viewBox=3D'0%200%201200%20464'%3E%3C/svg%3E" alt=3D"How Red=
+is typically works" width=3D"1200" height=3D"464" data-lazy-srcset=3D"https=
+://cdn-3.backendless.com/wp-content/uploads/2022/12/How-Redis-typically-wor=
+ks.png 1200w, https://cdn-2.backendless.com/wp-content/uploads/2022/12/How-=
+Redis-typically-works-600x232.png 600w, https://cdn-2.backendless.com/wp-co=
+ntent/uploads/2022/12/How-Redis-typically-works-768x297.png 768w, https://c=
+dn-1.backendless.com/wp-content/uploads/2022/12/How-Redis-typically-works-4=
+60x178.png 460w, https://cdn-1.backendless.com/wp-content/uploads/2022/12/H=
+ow-Redis-typically-works-800x309.png 800w" data-lazy-sizes=3D"(max-width: 1=
+200px) 100vw, 1200px" data-lazy-src=3D"https://cdn-3.backendless.com/wp-con=
+tent/uploads/2022/12/How-Redis-typically-works.png" data-xblocker=3D"passed=
+" style=3D"visibility: visible;"></a></p>
+<p>One of the main drawbacks of in-memory databases is that they are more s=
+ensitive to data loss in the event of a crash or shutdown, as the data is s=
+tored entirely in memory and is not persisted to disk. To address this issu=
+e, many in-memory databases, including Redis, provide features such as pers=
+istence and replication, which allow data to be saved to disk and replicate=
+d across multiple servers to ensure data durability and availability.</p>
+<h2><a id=3D"redis-persistence"></a>Redis persistence</h2>
+<p>Redis persistence is a feature of the Redis database that allows data to=
+ be saved to disk and restored in the event of a crash or shutdown. By defa=
+ult, Redis stores data in memory, which means that it is lost when the Redi=
+s server is shut down or restarted. Redis persistence enables data to be sa=
+ved to disk and restored when the Redis server starts up again, ensuring th=
+at data is not lost in the event of a crash or shutdown.</p>
+<p><a href=3D"https://redis.com/redis-enterprise/technology/durable-redis/"=
+ target=3D"_blank" rel=3D"noopener noreferrer">Redis persistence can be con=
+figured</a> in several ways, depending on the needs of the application. The=
+ simplest form of persistence is snapshotting, which involves periodically =
+saving the entire Redis dataset to disk. This approach is fast and efficien=
+t, but it can result in data loss if the Redis server crashes between snaps=
+hots.</p>
+<p><a href=3D"https://cdn-2.backendless.com/wp-content/uploads/2022/12/dura=
+ble-redis-2.png"><img class=3D"border-image aligncenter wp-image-21476 size=
+-large" src=3D"data:image/svg+xml,%3Csvg%20xmlns=3D'http://www.w3.org/2000/=
+svg'%20viewBox=3D'0%200%201200%20650'%3E%3C/svg%3E" alt=3D"Redis persistenc=
+e" width=3D"1200" height=3D"650" data-lazy-srcset=3D"https://cdn-2.backendl=
+ess.com/wp-content/uploads/2022/12/durable-redis-2-1200x650.png 1200w, http=
+s://cdn-1.backendless.com/wp-content/uploads/2022/12/durable-redis-2-600x32=
+5.png 600w, https://cdn-2.backendless.com/wp-content/uploads/2022/12/durabl=
+e-redis-2-768x416.png 768w, https://cdn-1.backendless.com/wp-content/upload=
+s/2022/12/durable-redis-2-460x249.png 460w, https://cdn-3.backendless.com/w=
+p-content/uploads/2022/12/durable-redis-2-800x434.png 800w, https://cdn-2.b=
+ackendless.com/wp-content/uploads/2022/12/durable-redis-2.png 1214w" data-l=
+azy-sizes=3D"(max-width: 1200px) 100vw, 1200px" data-lazy-src=3D"https://cd=
+n-2.backendless.com/wp-content/uploads/2022/12/durable-redis-2-1200x650.png=
+" data-xblocker=3D"passed" style=3D"visibility: visible;"></a></p>
+<p><em>(Image source: redis.com)</em></p>
+<p>Another form of persistence is append-only file (AOF) persistence, which=
+ involves saving each write operation to a log file on disk. This approach =
+provides better durability than snapshotting, as it allows the Redis server=
+ to recreate the dataset by replaying the log file in the event of a crash.=
+ However, it can be slower and more resource-intensive than snapshotting.</=
+p>
+<p>Overall, Redis persistence is a valuable feature that allows data to be =
+saved to disk and restored in the event of a crash or shutdown, ensuring da=
+ta durability and availability.</p>
+<h2><a id=3D"what-is-redis-used-for"></a>What is Redis used for?</h2>
+<p>Redis is often used for caching web pages, reducing load on servers and =
+improving page loading times. It can also be used as a message broker to fa=
+cilitate communication between different parts of an application. Additiona=
+lly, Redis supports transactions, making it possible to execute multiple op=
+erations atomically.</p>
+<p>Let=E2=80=99s look at some specific Redis use cases:</p>
+<ol>
+<li>Real-time analytics: Applications can use Redis to store and process la=
+rge amounts of data in real-time, allowing organizations to quickly analyze=
+ and visualize data to make business decisions.</li>
+<li>Online gaming: Gaming software can use Redis to store and manage game s=
+tate, such as player profiles, game scores, and leaderboards, which allows =
+for fast and seamless gameplay.</li>
+<li>E-commerce: Ecommerce apps can use Redis to store and manage data relat=
+ed to online shopping, such as product catalogs, user profiles, and shoppin=
+g cart contents, which enables fast and efficient shopping experiences for =
+users.</li>
+<li>Social media: Social apps can use Redis to store and manage data relate=
+d to social media interactions, such as user profiles, friend lists, and ne=
+ws feeds, which allows for fast and smooth user experiences.</li>
+</ol>
+<h2><a id=3D"key-value-pairs"></a>What are key-value pairs?</h2>
+<p>In Redis, a key-value pair is a data structure that consists of a unique=
+ key, which is used to identify the data, and a value, which is the data it=
+self. Key-value pairs are the most basic data structure in Redis, and they =
+are used to store and manage data in the database.</p>
+<p>Redis supports a wide range of data types for keys and values, including=
+ strings, hashes, lists, sets, and sorted sets. This allows developers to s=
+tore and manipulate a variety of data types in Redis, such as text, numbers=
+, arrays, and complex data structures.</p>
+<p>Redis provides a rich set of commands for working with key-value pairs, =
+such as SET, GET, and DEL for strings, HSET, HGET, and HDEL for hashes, and=
+ LPUSH, LGET, and LREM for lists. These commands enable developers to store=
+, retrieve, and manipulate data in Redis efficiently and easily.</p>
+<h2><a id=3D"rich-data-structures"></a>Rich data structures</h2>
+<p>Data structures in Redis are collections of data that are organized and =
+managed in a specific way to support efficient operations. For example, the=
+ string data type in Redis is a sequence of bytes that can be used to store=
+ and manipulate text or binary data. The hash data type, on the other hand,=
+ is a mapping of field-value pairs that can be used to store and manipulate=
+ complex data structures.</p>
+<p>Each data structure in Redis has its own unique set of operations that c=
+an be performed on it, such as GET, SET, and DELETE for strings, HGET, HSET=
+, and HDEL for hashes, and LPUSH, LPOP, and LRANGE for lists. These operati=
+ons enable developers to efficiently store, retrieve, and manipulate data i=
+n Redis.</p>
+<p>Overall, data structures in Redis are an important aspect of the framewo=
+rk, as they provide the underlying foundation for efficient data management=
+ and manipulation.</p>
+<h2><a id=3D"chat-and-messaging"></a>Chat and messaging applications</h2>
+<p>To support chat and messaging applications, Redis can be used to store a=
+nd manage data related to conversations, users, and messages. For example, =
+Redis can be used to store information about individual conversations, such=
+ as the participants and the latest messages. It can also be used to store =
+information about individual users, such as their profile details and their=
+ list of contacts. Finally, Redis can be used to store the actual messages =
+themselves, along with metadata such as the sender, recipient, and timestam=
+p.</p>
+<p>In addition to storing data, Redis can also be used to manage messaging =
+operations, such as delivering messages to recipients, broadcasting message=
+s to multiple recipients, and storing messages for offline users. These cap=
+abilities make Redis a powerful tool for building chat and messaging applic=
+ations that are fast, scalable, and reliable.</p>
+<h2><a id=3D"session-store"></a>Session store</h2>
+<p>Session store is a mechanism for storing user session data in a web appl=
+ication. In a Redis session store, session data is stored in a Redis databa=
+se, which is a fast, in-memory data structure store that can be used as a c=
+ache, database, and message broker.</p>
+<p>In a Redis session store, session data is stored in a Redis database as =
+key-value pairs, where the key is a unique identifier for the session and t=
+he value is the session data itself, which may include information such as =
+the user=E2=80=99s login status, preferences, and shopping cart contents.</=
+p>
+<p>The benefits of using a Redis session store include improved performance=
+ and scalability, as Redis can store and retrieve session data quickly and =
+efficiently, even when dealing with large amounts of data. Additionally, Re=
+dis allows session data to be shared across multiple servers, which can be =
+useful in a load-balanced environment.</p>
+<h2><a id=3D"benefits-of-redis"></a>What are the benefits of Redis?</h2>
+<p>One of the main advantages of using Redis for caching is its fast read a=
+nd write speeds. Redis can handle millions of operations per second, which =
+allows it to serve webpages faster than traditional databases. It also offe=
+rs excellent support for transactions, allowing applications to perform mul=
+tiple operations atomically. Additionally, Redis supports the use of <a hre=
+f=3D"https://backendless.com/features/backendless-core/pub-sub-messaging">p=
+ub/sub channels</a> for fast data sharing between applications.</p>
+<p>Redis is also <a href=3D"https://backendless.com/what-is-app-scaling-and=
+-why-it-matters/">highly scalable</a> and can be deployed across multiple m=
+achines for high availability. This makes it ideal for distributed systems =
+that need to quickly process large amounts of data.</p>
+<p>For example, Redis can be used to store session information in a distrib=
+uted system and provide quick access to that data across multiple servers. =
+This makes Redis incredibly powerful gaming applications because it can qui=
+ckly and efficiently share data across multiple nodes in near real time.</p=
+>
+<p>In addition to excellent performance, another advantage of Redis is that=
+ it offers a number of features that are not available in traditional datab=
+ases. These include pub/sub, which allows you to publish messages and subsc=
+ribe to them, as well as transactions and Lua scripting. These features can=
+ be used to build powerful applications that are not possible with traditio=
+nal databases.</p>
+<h2><a id=3D"lua-scripting"></a>What is Lua scripting?</h2>
+<p><a href=3D"https://cdn-1.backendless.com/wp-content/uploads/2022/12/Lua-=
+Logo.png"><img class=3D"aligncenter size-thumbnail wp-image-21478" src=3D"d=
+ata:image/svg+xml,%3Csvg%20xmlns=3D'http://www.w3.org/2000/svg'%20viewBox=
+=3D'0%200%20150%20150'%3E%3C/svg%3E" alt=3D"Lua-Logo" width=3D"150" height=
+=3D"150" data-lazy-srcset=3D"https://cdn-2.backendless.com/wp-content/uploa=
+ds/2022/12/Lua-Logo-150x150.png 150w, https://cdn-3.backendless.com/wp-cont=
+ent/uploads/2022/12/Lua-Logo-600x600.png 600w, https://cdn-2.backendless.co=
+m/wp-content/uploads/2022/12/Lua-Logo-768x768.png 768w, https://cdn-2.backe=
+ndless.com/wp-content/uploads/2022/12/Lua-Logo-306x306.png 306w, https://cd=
+n-1.backendless.com/wp-content/uploads/2022/12/Lua-Logo-533x533.png 533w, h=
+ttps://cdn-1.backendless.com/wp-content/uploads/2022/12/Lua-Logo.png 1200w"=
+ data-lazy-sizes=3D"(max-width: 150px) 100vw, 150px" data-lazy-src=3D"https=
+://cdn-2.backendless.com/wp-content/uploads/2022/12/Lua-Logo-150x150.png" d=
+ata-xblocker=3D"passed" style=3D"visibility: visible;"></a></p>
+<p><a href=3D"https://redis.io/docs/manual/programmability/eval-intro/" tar=
+get=3D"_blank" rel=3D"noopener noreferrer">Lua scripting</a> is a technique=
+ for writing and executing scripts in the <a href=3D"https://www.lua.org/" =
+target=3D"_blank" rel=3D"noopener noreferrer">Lua programming language</a> =
+within a host application. Lua is a lightweight, versatile, and embeddable =
+scripting language that is widely used for writing scripts that can be run =
+within other applications.</p>
+<p>In the context of Redis, Lua scripting allows developers to write and ex=
+ecute scripts that manipulate data stored in a Redis database. Redis provid=
+es a built-in scripting engine that supports Lua, which allows developers t=
+o write scripts that can be executed within the Redis server.</p>
+<p>One of the main advantages of Lua scripting in Redis is that it allows d=
+evelopers to write complex operations that can be executed atomically and i=
+n a single step. This means that the scripts can manipulate data in Redis w=
+ithout interference from other operations, ensuring data consistency and in=
+tegrity.</p>
+<p>Overall, Lua scripting is a powerful and flexible tool that can be used =
+within Redis to write and execute complex operations on data stored in the =
+database.</p>
+<h2><a id=3D"drawbacks-of-redis"></a>What are the drawbacks of using Redis?=
+</h2>
+<p>Like any technology, Redis has some drawbacks that should be considered =
+when deciding whether to use it in a particular application.</p>
+<p>One of the main drawbacks of Redis is that it stores data entirely in me=
+mory, which means that it can be sensitive to data loss in the event of a c=
+rash or shutdown. To address this issue, Redis provides features such as pe=
+rsistence and replication, which allow data to be saved to disk and replica=
+ted across multiple servers. However, these features can add complexity and=
+ overhead, which may not be suitable for all applications.</p>
+<p>Another drawback of Redis is that it is a single-threaded system, which =
+means that it can only process one command at a time. This can limit the pe=
+rformance and scalability of Redis in applications that require high concur=
+rency and parallelism. To address this issue, Redis provides clustering and=
+ sharding features that allow data to be distributed across multiple server=
+s, but these features can be complex to set up and manage.</p>
+<h2><a id=3D"closing"></a>Closing</h2>
+<p>Overall, Redis is an excellent tool for caching web pages and reducing s=
+erver load, but it also has some features that can be used to create powerf=
+ul distributed applications. It=E2=80=99s fast, scalable, and supports adva=
+nced features like Pub/Sub and Lua scripting. However, it does have some dr=
+awbacks such as the need for additional memory and the lack of ACID complia=
+nce or support for joins. Take all this into consideration before using Red=
+is in your project.</p>
+<p>Alternately, Backendless offers <a href=3D"https://backendless.com/featu=
+re/hive/">Hive</a>. Built on Redis, Hive provides the benefits of Redis wit=
+h the vast feature set of Backendless. In addition to the advantages of Red=
+is, Hive offers all of the capabilities of a traditional SQL database by in=
+tegrating with <a href=3D"https://backendless.com/features/backendless-core=
+/backendless-database">Backendless Database</a>. With Backendless, you are =
+able to work with data in a wide variety of ways to achieve your applicatio=
+n=E2=80=99s needs.</p>
+
+		</div>
+	</div>
+<section class=3D"vc_cta3-container"><div class=3D"vc_general vc_cta3 vc_ct=
+a3-style-flat vc_cta3-shape-rounded vc_cta3-align-center vc_cta3-color-blue=
+ vc_cta3-icon-size-md vc_cta3-actions-bottom"><div class=3D"vc_cta3_content=
+-container"><div class=3D"vc_cta3-content"><header class=3D"vc_cta3-content=
+-header"><h2>Try Backendless Free Now</h2></header><p>Build an app on Redis=
+ with Backendless=E2=80=99 Hive. Get started for free today!</p>
+</div><div class=3D"vc_cta3-actions"><div class=3D"vc_btn3-container vc_btn=
+3-center"><a class=3D"vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-roun=
+ded vc_btn3-style-flat vc_btn3-color-white" href=3D"https://develop.backend=
+less.com/registration" title=3D"" target=3D"_blank">Start Free</a></div></d=
+iv></div></div></section>
+	<div class=3D"wpb_text_column wpb_content_element ">
+		<div class=3D"wpb_wrapper">
+			<h2><a id=3D"faq"></a>Frequently Asked Questions</h2>
+<h3><a id=3D"redis-vs-nosql"></a>How does Redis compare to other NoSQL data=
+base systems?</h3>
+<p>Redis is a type of NoSQL database, which stands for =E2=80=9Cnot only SQ=
+L=E2=80=9D and refers to a class of databases that do not use the tradition=
+al SQL relational model.</p>
+<p>Compared to other NoSQL databases, Redis has several unique characterist=
+ics that make it well-suited for certain applications. One of the main adva=
+ntages of Redis is its in-memory storage, which allows it to provide fast a=
+ccess to data and high performance. This makes Redis well-suited for applic=
+ations that require fast access to large amounts of data, such as real-time=
+ analytics, online gaming, and e-commerce.</p>
+<p>Another advantage of Redis is its support for a wide range of data struc=
+tures, including strings, hashes, lists, sets, and sorted sets. This allows=
+ Redis to store and manipulate a variety of data types, making it a versati=
+le and flexible tool for data management.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class=3D"post-page__comments">
+            <div class=3D"container">
+                    <div id=3D"comments" class=3D"comments-area">
+
+       =20
+
+        	<div id=3D"respond" class=3D"comment-respond">
+		<h3 id=3D"reply-title" class=3D"comment-reply-title h2">Leave a Reply <sm=
+all><a rel=3D"nofollow" id=3D"cancel-comment-reply-link" href=3D"https://ba=
+ckendless.com/redis-what-it-is-what-it-does-and-why-you-should-care/#respon=
+d" style=3D"display:none;">Cancel reply</a></small></h3><form action=3D"htt=
+ps://backendless.com/wp-comments-post.php" method=3D"post" id=3D"commentfor=
+m" class=3D"comment-form control-form">
+<div class=3D"control-row comment-form-comment">
+    <label class=3D"control-label" for=3D"comment">Comment<sup>*</sup></lab=
+el>
+    <div class=3D"control-wrapper">
+        <textarea class=3D"control control--textarea" id=3D"comment" name=
+=3D"comment" cols=3D"45" rows=3D"8" aria-required=3D"true" required=3D"requ=
+ired"></textarea>
+    </div>
+</div>
+<div class=3D"control-row control-row--half comment-form-author">
+    <label class=3D"control-label" for=3D"author">Name<sup>*</sup></label>
+    <div class=3D"control-wrapper">
+        <input class=3D"control control--input" id=3D"author" name=3D"autho=
+r" type=3D"text" value=3D"" required=3D"required" fdprocessedid=3D"bywb6j">
+    </div>
+</div>
+
+<div class=3D"control-row control-row--half comment-form-email">
+    <label class=3D"control-label" for=3D"email">Email<sup>*</sup></label>
+    <div class=3D"control-wrapper">=20
+        <input class=3D"control control--input" id=3D"email" name=3D"email"=
+ type=3D"email" value=3D"" required=3D"required" fdprocessedid=3D"kqh5bi">
+    </div>
+</div>
+<div class=3D"clearfix"></div><div class=3D"control-row control-row--center=
+ form-submit"><input name=3D"submit" type=3D"submit" id=3D"submit" class=3D=
+"submit button" value=3D"Post Comment" fdprocessedid=3D"d48myr">=20
+
+</div></form>	</div><!-- #respond -->
+=09
+    </div>
+
+
+            </div>
+        </div>
+
+        <div class=3D"container">
+            <div class=3D"related__posts-block">
+                <h2 class=3D"related__posts-block__title">Related Articles<=
+/h2>
+                <div class=3D"related__posts">
+                                            <div class=3D"related__posts-it=
+em">
+                            <a href=3D"https://backendless.com/introducing-=
+backendless-visualizations/" class=3D"related__posts-item__title" data-equa=
+l=3D"related__posts-item__title">Introducing Backendless Visualizations</a>
+                            <a data-bg=3D"https://cdn-1.backendless.com/wp-=
+content/uploads/2023/05/Backendless-Visualizations-Feature-600x386.png" hre=
+f=3D"https://backendless.com/introducing-backendless-visualizations/" class=
+=3D"related__posts-item__image rocket-lazyload" style=3D""></a>
+                            <div class=3D"related__posts-item__description"=
+>
+                                Visualizing data is a valuable way to glean=
+ insights into your data quickly and without the need to hire a data scient=
+ist. Backendless Visualizations make it super easy to share those insights =
+with others.
+                                <div class=3D"related__posts-item__footer">
+                                    <a href=3D"https://backendless.com/intr=
+oducing-backendless-visualizations/" class=3D"related__posts-item__footer__=
+link">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class=3D"related__posts-it=
+em">
+                            <a href=3D"https://backendless.com/import-airta=
+ble-data-into-backendless/" class=3D"related__posts-item__title" data-equal=
+=3D"related__posts-item__title">Import Airtable Data Into Backendless</a>
+                            <a data-bg=3D"https://cdn-1.backendless.com/wp-=
+content/uploads/2023/05/Import-Airtable-Data-into-Backendless-Feature-Relea=
+se-600x386.png" href=3D"https://backendless.com/import-airtable-data-into-b=
+ackendless/" class=3D"related__posts-item__image rocket-lazyload" style=3D"=
+"></a>
+                            <div class=3D"related__posts-item__description"=
+>
+                                Airtable is a user-friendly database soluti=
+on for no-code developers with early-stage apps. When those apps outgrow Ai=
+rtable, however, Backendless is a powerful, scalable alternative, and now y=
+ou can easily import your data directly from Airtable into Backendless Data=
+base.
+                                <div class=3D"related__posts-item__footer">
+                                    <a href=3D"https://backendless.com/impo=
+rt-airtable-data-into-backendless/" class=3D"related__posts-item__footer__l=
+ink">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class=3D"related__posts-it=
+em">
+                            <a href=3D"https://backendless.com/how-to-integ=
+rate-flutterflow-with-backendless/" class=3D"related__posts-item__title" da=
+ta-equal=3D"related__posts-item__title">How To Integrate A FlutterFlow App =
+With A Backendless Backend</a>
+                            <a data-bg=3D"https://cdn-2.backendless.com/wp-=
+content/uploads/2023/03/Integrating-FlutterFlow-with-Backendless-600x387.pn=
+g" href=3D"https://backendless.com/how-to-integrate-flutterflow-with-backen=
+dless/" class=3D"related__posts-item__image rocket-lazyload" style=3D""></a=
+>
+                            <div class=3D"related__posts-item__description"=
+>
+                                FlutterFlow is a low-code mobile app builde=
+r utilizing Flutter as its foundation. When you integrate a feature-rich Ba=
+ckendless backend with your FlutterFlow app, you get a visual relational da=
+tabase, user management, bulletproof security, highly-scalable serverless h=
+osting, and much more.
+                                <div class=3D"related__posts-item__footer">
+                                    <a href=3D"https://backendless.com/how-=
+to-integrate-flutterflow-with-backendless/" class=3D"related__posts-item__f=
+ooter__link">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+<footer class=3D"footer">
+    <div class=3D"container">
+        <div class=3D"footer__row">
+
+            <div class=3D"footer__logo-wrapper">
+                <a href=3D"https://backendless.com/" class=3D"footer__logo"=
+></a>
+                <div class=3D"footer__logo-description">Visual app developm=
+ent platform that makes apps intuitive to build and easy to manage, no code=
+ required.</div>
+            </div>
+                        <div class=3D"footer__sidebar">
+            <div id=3D"nav_menu-6" class=3D"footer__sidebar__widget widget_=
+nav_menu"><h2 class=3D"footer__sidebar__widget-title">Community</h2>
+<div class=3D"menu-community-container"><ul id=3D"menu-community" class=3D"=
+menu"><li id=3D"menu-item-20418" class=3D"menu-item menu-item-type-post_typ=
+e menu-item-object-page menu-item-20418"><a href=3D"https://backendless.com=
+/community/">Developers Directory</a></li>
+<li id=3D"menu-item-20419" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20419"><a target=3D"_blank" rel=3D"noopener nore=
+ferrer" href=3D"https://support.backendless.com/g/team">Our Team</a></li>
+</ul></div></div>
+<div id=3D"nav_menu-5" class=3D"footer__sidebar__widget widget_nav_menu"><h=
+2 class=3D"footer__sidebar__widget-title">Business</h2>
+<div class=3D"menu-business-container"><ul id=3D"menu-business" class=3D"me=
+nu"><li id=3D"menu-item-20424" class=3D"menu-item menu-item-type-post_type =
+menu-item-object-page menu-item-20424"><a href=3D"https://backendless.com/c=
+ustomers/">Customers</a></li>
+<li id=3D"menu-item-20423" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-page menu-item-20423"><a href=3D"https://backendless.com/app-g=
+allery/">App Gallery</a></li>
+<li id=3D"menu-item-20422" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-page menu-item-20422"><a href=3D"https://backendless.com/prici=
+ng/partner-plan/">Partners</a></li>
+<li id=3D"menu-item-20421" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-page menu-item-20421"><a href=3D"https://backendless.com/prici=
+ng/">Pricing</a></li>
+</ul></div></div>
+<div id=3D"nav_menu-4" class=3D"footer__sidebar__widget widget_nav_menu"><h=
+2 class=3D"footer__sidebar__widget-title">Integrations</h2>
+<div class=3D"menu-integrations-container"><ul id=3D"menu-integrations" cla=
+ss=3D"menu"><li id=3D"menu-item-22004" class=3D"menu-item menu-item-type-po=
+st_type menu-item-object-post menu-item-22004"><a href=3D"https://backendle=
+ss.com/how-to-integrate-flutterflow-with-backendless/">FlutterFlow</a></li>
+<li id=3D"menu-item-20427" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-post menu-item-20427"><a href=3D"https://backendless.com/how-t=
+o-integrate-bubble-io-with-backendless/">Bubble.io</a></li>
+<li id=3D"menu-item-20428" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-post menu-item-20428"><a href=3D"https://backendless.com/how-t=
+o-integrate-thunkable-with-backendless/">Thunkable</a></li>
+<li id=3D"menu-item-20426" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-post menu-item-20426"><a href=3D"https://backendless.com/how-t=
+o-integrate-adalo-with-backendless/">Adalo</a></li>
+<li id=3D"menu-item-20429" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-post menu-item-20429"><a href=3D"https://backendless.com/how-t=
+o-integrate-appgyver-with-backendless/">AppGyver</a></li>
+<li id=3D"menu-item-20430" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-post menu-item-20430"><a href=3D"https://backendless.com/integ=
+rate-backendless-with-3000-web-apps-using-zapier/">Zapier</a></li>
+<li id=3D"menu-item-20789" class=3D"menu-item menu-item-type-post_type menu=
+-item-object-post menu-item-20789"><a href=3D"https://backendless.com/integ=
+rate-with-over-1000-apps-using-integromat-make/">Make (Integromat)</a></li>
+</ul></div></div>
+<div id=3D"nav_menu-3" class=3D"footer__sidebar__widget widget_nav_menu"><h=
+2 class=3D"footer__sidebar__widget-title">Development</h2>
+<div class=3D"menu-development-container"><ul id=3D"menu-development" class=
+=3D"menu"><li id=3D"menu-item-20431" class=3D"menu-item menu-item-type-cust=
+om menu-item-object-custom menu-item-20431"><a href=3D"https://backendless.=
+com/developers/#ui-builder">UI Builder</a></li>
+<li id=3D"menu-item-20432" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20432"><a href=3D"https://backendless.com/develo=
+pers/#codeless">Codeless</a></li>
+<li id=3D"menu-item-20433" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20433"><a href=3D"https://backendless.com/develo=
+pers/#javascript">JavaScript</a></li>
+<li id=3D"menu-item-20434" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20434"><a href=3D"https://backendless.com/develo=
+pers/#android">Android</a></li>
+<li id=3D"menu-item-20435" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20435"><a href=3D"https://backendless.com/develo=
+pers/#ios">iOS</a></li>
+<li id=3D"menu-item-20436" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20436"><a href=3D"https://backendless.com/develo=
+pers/#flutter">Flutter</a></li>
+</ul></div></div>
+<div id=3D"nav_menu-2" class=3D"footer__sidebar__widget widget_nav_menu"><h=
+2 class=3D"footer__sidebar__widget-title">Features</h2>
+<div class=3D"menu-features-container"><ul id=3D"menu-features" class=3D"me=
+nu"><li id=3D"menu-item-20437" class=3D"menu-item menu-item-type-custom men=
+u-item-object-custom menu-item-20437"><a href=3D"https://backendless.com/fe=
+atures/codeless">Codeless</a></li>
+<li id=3D"menu-item-20449" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20449"><a href=3D"https://backendless.com/featur=
+es/#backendless-core">Backendless Core</a></li>
+<li id=3D"menu-item-20438" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20438"><a href=3D"https://backendless.com/featur=
+es/#ui-builder">UI Builder</a></li>
+<li id=3D"menu-item-20439" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20439"><a href=3D"https://backendless.com/featur=
+es/#api-services">API Services</a></li>
+<li id=3D"menu-item-20440" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20440"><a href=3D"https://backendless.com/featur=
+es/#backend-management">Backend Management</a></li>
+<li id=3D"menu-item-20441" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20441"><a href=3D"https://backendless.com/featur=
+es/#backendless-pro">Backendless PRO</a></li>
+<li id=3D"menu-item-20442" class=3D"menu-item menu-item-type-custom menu-it=
+em-object-custom menu-item-20442"><a href=3D"https://backendless.com/featur=
+es/#backendless-marketplace">Marketplace</a></li>
+</ul></div></div>
+            </div>
+        </div>
+
+        <div class=3D"footer__row">
+
+            <div class=3D"footer__social">
+
+                <a target=3D"_blank" href=3D"https://www.linkedin.com/compa=
+ny/backendless-corp/" class=3D"footer__social__item">
+                    <svg width=3D"25" height=3D"25" viewBox=3D"0 0 25 25" x=
+mlns=3D"http://www.w3.org/2000/svg">
+                        <path d=3D"M13.0606 10.855V10.8174C13.0527 10.8301 =
+13.0444 10.8428 13.0361 10.855H13.0606Z"></path>
+                        <path d=3D"M22.3202 0.0297851H1.99609C1.02331 0.029=
+7851 0.234375 0.7999 0.234375 1.74903V22.311C0.234375 23.2597 1.02331 24.02=
+98 1.99609 24.0298H22.3202C23.2944 24.0298 24.0833 23.2592 24.0833 22.311V1=
+.74903C24.0833 0.799418 23.2939 0.0297851 22.3202 0.0297851ZM7.46313 20.120=
+8H3.86106V9.28372H7.46313V20.1208ZM5.66234 7.80332H5.63821C4.42996 7.80332 =
+3.64826 6.97096 3.64826 5.93111C3.64826 4.8681 4.45409 4.0589 5.68598 4.058=
+9C6.91836 4.0589 7.67641 4.8681 7.70054 5.93111C7.70054 6.97096 6.91788 7.8=
+0332 5.66234 7.80332ZM20.4523 20.1208H16.8502V14.3218C16.8502 12.8655 16.32=
+91 11.8715 15.0258 11.8715C14.0308 11.8715 13.4383 12.5417 13.1772 13.1893C=
+13.0822 13.4204 13.059 13.7437 13.059 14.068V20.1203H9.45694C9.45694 20.120=
+3 9.50423 10.299 9.45694 9.28323H13.059V10.8172C13.5377 10.0789 14.3937 9.0=
+2749 16.3059 9.02749C18.6756 9.02749 20.4528 10.5769 20.4528 13.9059V20.120=
+8H20.4523Z"></path>
+                    </svg>
+                </a>
+
+                <a target=3D"_blank" href=3D"https://twitter.com/Backendles=
+s" class=3D"footer__social__item">
+                    <svg width=3D"30" height=3D"25" viewBox=3D"0 0 30 25" x=
+mlns=3D"http://www.w3.org/2000/svg">
+                        <path d=3D"M29.6135 2.87053C28.5276 3.35292 27.3597=
+ 3.67843 26.1336 3.82446C27.3849 3.07513 28.3452 1.88789 28.7978 0.47237C27=
+.627 1.16697 26.3309 1.6713 24.9504 1.94322C23.8455 0.765688 22.2707 0.0297=
+854 20.5282 0.0297854C17.1822 0.0297854 14.4695 2.7426 14.4695 6.08858C14.4=
+695 6.56335 14.523 7.02554 14.6264 7.46897C9.59093 7.21665 5.12623 4.80476 =
+2.13802 1.13886C1.61666 2.03338 1.31783 3.07399 1.31783 4.1848C1.31783 6.28=
+67 2.38739 8.14102 4.01308 9.22785C3.02019 9.19596 2.08556 8.92375 1.26891 =
+8.46971C1.26837 8.49489 1.26837 8.52037 1.26837 8.54644C1.26837 11.4814 3.3=
+5685 13.9302 6.12877 14.4872C5.62031 14.6254 5.08499 14.6997 4.53234 14.699=
+7C4.14155 14.6997 3.76221 14.6619 3.39222 14.5908C4.16355 16.9978 6.40099 1=
+8.7496 9.05177 18.7985C6.97822 20.4236 4.36605 21.3922 1.5271 21.3922C1.038=
+3 21.3922 0.556208 21.3632 0.0820313 21.3076C2.7638 23.0269 5.94816 24.0298=
+ 9.3696 24.0298C20.5141 24.0298 26.6078 14.7975 26.6078 6.79103C26.6078 6.5=
+2876 26.6025 6.2668 26.5908 6.00717C27.7742 5.15305 28.8019 4.08589 29.6135=
+ 2.87053Z"></path>
+                    </svg>
+                </a>
+
+                <a target=3D"_blank" href=3D"https://www.facebook.com/backe=
+ndless" class=3D"footer__social__item">
+                    <svg width=3D"12" height=3D"25" viewBox=3D"0 0 12 25" x=
+mlns=3D"http://www.w3.org/2000/svg">
+                        <path d=3D"M11.7653 7.8011H7.96729V5.31018C7.96729 =
+4.37472 8.58728 4.15663 9.02396 4.15663C9.45965 4.15663 11.7042 4.15663 11.=
+7042 4.15663V0.0441921L8.01299 0.0297853C3.91545 0.0297853 2.98298 3.09698 =
+2.98298 5.0598V7.8011H0.613281V12.0387H2.98298C2.98298 17.4771 2.98298 24.0=
+298 2.98298 24.0298H7.96729C7.96729 24.0298 7.96729 17.4125 7.96729 12.0387=
+H11.3306L11.7653 7.8011Z"></path>
+                    </svg>
+                </a>
+
+                <a target=3D"_blank" href=3D"https://github.com/Backendless=
+" class=3D"footer__social__item">
+                    <svg width=3D"30" height=3D"25" viewBox=3D"0 0 30 25" x=
+mlns=3D"http://www.w3.org/2000/svg">
+                        <path d=3D"M29.8804 11.7271C29.8864 11.7278 29.8932=
+ 11.7285 29.8992 11.7285C29.9461 11.7285 29.9891 11.6942 29.9979 11.6459C30=
+.0079 11.5915 29.9717 11.5391 29.9173 11.5284C28.5427 11.2752 27.537 10.995=
+2 24.1439 11.0234C24.3554 10.2411 24.4696 9.31579 24.4924 8.21984C24.487 5.=
+24844 23.0648 4.19757 22.7915 3.70398C23.1944 1.45446 22.7243 0.430411 22.5=
+061 0.0791896C21.7003 -0.207568 19.7026 0.816541 18.6114 1.53837C16.8319 1.=
+01796 13.0715 1.06827 11.6613 1.67265C9.05923 -0.190797 7.68259 0.094593 7.=
+68259 0.094593C7.68259 0.094593 6.79282 1.68942 7.44757 4.02291C6.5914 5.11=
+41 5.95349 5.88635 5.95349 7.93308C5.95349 9.08606 6.08913 10.1181 6.39534 =
+11.0193C5.0335 11.0159 2.17919 11.1992 0.84222 11.5296C0.78852 11.5431 0.75=
+5635 11.5981 0.768361 11.6518C0.779779 11.6975 0.821403 11.7284 0.866421 11=
+.7284C0.874449 11.7284 0.882539 11.7277 0.890568 11.7257C2.23967 11.392 5.1=
+8931 11.2106 6.46783 11.2214C6.54103 11.4155 6.62298 11.6035 6.71361 11.785=
+5C3.42661 11.8728 2.54047 12.3421 1.1605 12.6866C1.06047 12.7122 0.962407 1=
+2.7364 0.867079 12.7599C0.813379 12.7732 0.779775 12.8283 0.793215 12.882C0=
+.804633 12.9277 0.845549 12.9585 0.89128 12.9585C0.899308 12.9585 0.907398 =
+12.9579 0.915426 12.9559C1.01075 12.9317 1.10882 12.9075 1.20956 12.882C2.5=
+9357 12.5362 3.49178 12.0641 6.8184 11.9842C7.79606 13.7596 9.68169 14.8643=
+ 12.8619 15.1698C12.408 15.5143 11.8627 16.1684 11.7875 16.9244C11.2167 17.=
+2938 10.0691 17.4153 9.17668 17.134C7.92635 16.7391 7.44757 14.2633 5.57544=
+ 14.6159C5.16981 14.6924 5.25039 14.9597 5.60089 15.1866C6.17167 15.5559 6.=
+70891 16.018 7.12323 17.0017C7.44151 17.7571 8.11035 19.1069 10.2256 19.106=
+9C11.0649 19.1069 11.6532 19.0061 11.6532 19.0061C11.6532 19.0061 11.6695 2=
+0.9341 11.6695 21.6835C11.6695 22.5477 10.5031 22.7915 10.5031 23.2072C10.5=
+031 23.3717 10.8892 23.3871 11.1994 23.3871C11.8125 23.3871 13.0884 22.8754=
+ 13.0884 21.9769C13.0884 21.2631 13.0998 18.8632 13.0998 18.4434C13.0998 17=
+.5255 13.592 17.2347 13.592 17.2347C13.592 17.2347 13.6532 22.1347 13.4745 =
+22.7914C13.265 23.5637 12.887 23.4542 12.887 23.7987C12.887 24.3111 14.4227=
+ 23.9243 14.9317 22.7995C15.3252 21.9238 15.1533 17.1172 15.1533 17.1172L15=
+.5729 17.1085C15.5729 17.1085 15.5965 19.3091 15.5823 20.315C15.5676 21.356=
+4 15.4971 22.674 16.1155 23.2951C16.5218 23.7034 17.8392 24.4199 17.8392 23=
+.7652C17.8392 23.3844 17.1173 23.0715 17.1173 22.0414C17.1173 20.9207 17.11=
+73 17.6155 17.1173 17.3019C17.6935 17.3019 17.6069 18.8605 17.6069 18.8605L=
+17.6492 21.756C17.6492 21.756 17.5223 22.8109 18.7901 23.2528C19.2373 23.40=
+92 20.1948 23.4516 20.2399 23.189C20.2848 22.9258 19.0869 22.5343 19.0761 2=
+1.7171C19.0694 21.2188 19.0983 20.928 19.0983 18.7624C19.0983 16.5969 18.80=
+75 15.7964 17.7942 15.1585C20.9214 14.8369 22.8567 14.0633 23.8002 11.991C2=
+4.884 12.0266 27.1534 12.1374 29.7911 12.9438C29.8005 12.9472 29.8106 12.94=
+85 29.8207 12.9485C29.8637 12.9485 29.9033 12.9204 29.9167 12.8774C29.9328 =
+12.8237 29.9033 12.7672 29.8496 12.7511C27.2481 11.9554 25.0478 11.8311 23.=
+8862 11.7922C23.9593 11.6122 24.0265 11.4235 24.0863 11.2254C27.4988 11.194=
+ 28.5072 11.4733 29.8804 11.7271ZM6.18838 15.0214C6.0632 15.0214 5.96175 14=
+.9538 5.96175 14.8703C5.96175 14.7869 6.0632 14.7193 6.18838 14.7193C6.3135=
+1 14.7193 6.41502 14.787 6.41502 14.8703C6.41502 14.9538 6.31351 15.0214 6.=
+18838 15.0214ZM6.66681 15.2537C6.66681 15.1703 6.76826 15.1026 6.89339 15.1=
+026C7.01857 15.1026 7.12002 15.1703 7.12002 15.2537C7.12002 15.3372 7.01857=
+ 15.4048 6.89339 15.4048C6.76826 15.4048 6.66681 15.3372 6.66681 15.2537ZM7=
+.09766 15.7658C7.09766 15.6823 7.19917 15.6146 7.3243 15.6146C7.44942 15.61=
+46 7.55093 15.6823 7.55093 15.7658C7.55093 15.8492 7.44942 15.9168 7.3243 1=
+5.9168C7.19917 15.9168 7.09766 15.8492 7.09766 15.7658ZM7.70204 16.496C7.57=
+686 16.496 7.47534 16.4284 7.47534 16.3449C7.47534 16.2615 7.57686 16.1938 =
+7.70204 16.1938C7.82716 16.1938 7.92867 16.2615 7.92867 16.3449C7.92867 16.=
+4284 7.82722 16.496 7.70204 16.496ZM8.13295 17.0416C8.00776 17.0416 7.90631=
+ 16.974 7.90631 16.8905C7.90631 16.8071 8.00776 16.7394 8.13295 16.7394C8.2=
+5807 16.7394 8.35952 16.8071 8.35952 16.8905C8.35952 16.974 8.25807 17.0416=
+ 8.13295 17.0416ZM8.71485 17.5061C8.58972 17.5061 8.48827 17.4384 8.48827 1=
+7.355C8.48827 17.2716 8.58972 17.2039 8.71485 17.2039C8.84003 17.2039 8.941=
+48 17.2716 8.94148 17.355C8.94148 17.4384 8.84003 17.5061 8.71485 17.5061ZM=
+9.52909 17.8083C9.40391 17.8083 9.30246 17.7406 9.30246 17.6571C9.30246 17.=
+5737 9.40391 17.5061 9.52909 17.5061C9.65421 17.5061 9.75573 17.5738 9.7557=
+3 17.6571C9.75573 17.7406 9.65427 17.8083 9.52909 17.8083ZM10.3461 17.8083C=
+10.2209 17.8083 10.1194 17.7406 10.1194 17.6571C10.1194 17.5737 10.2209 17.=
+5061 10.3461 17.5061C10.4712 17.5061 10.5726 17.5738 10.5726 17.6571C10.572=
+7 17.7406 10.4713 17.8083 10.3461 17.8083ZM11.1659 17.6795C11.0408 17.6795 =
+10.9393 17.6119 10.9393 17.5285C10.9393 17.445 11.0408 17.3774 11.1659 17.3=
+774C11.2911 17.3774 11.3926 17.445 11.3926 17.5285C11.3926 17.6119 11.2911 =
+17.6795 11.1659 17.6795ZM17.5848 14.4632C16.9089 14.4856 16.2079 14.497 15.=
+5018 14.497C14.7888 14.497 14.1004 14.4854 13.4562 14.4624C10.0205 14.3419 =
+8.12825 12.8919 8.12825 10.3797C8.12825 10.1188 8.18344 9.20173 8.89427 8.3=
+4954C9.58511 7.52133 10.6437 7.08334 11.9556 7.08334C12.045 7.08334 12.2049=
+ 7.09321 12.5295 7.11331C13.2251 7.15661 14.3895 7.22898 15.5424 7.22898C16=
+.5863 7.22898 17.6422 7.15191 18.2095 7.1104C18.475 7.09089 18.5816 7.08334=
+ 18.6502 7.08334C21.441 7.08334 22.4353 8.8665 22.4353 10.5351C22.4354 12.2=
+546 21.5938 14.3319 17.5848 14.4632Z"></path>
+                        <path d=3D"M5.50554 16.6361C6.04628 16.6361 5.5147 =
+15.7973 5.50548 15.405C5.50304 15.7869 4.96479 16.6361 5.50554 16.6361Z"></=
+path>
+                        <path d=3D"M16.0369 13.0266C15.9813 13.0266 15.9362=
+ 13.0717 15.9362 13.1274C15.9362 13.3493 15.6754 13.5974 15.3263 13.5974C15=
+.2759 13.5974 15.2275 13.5919 15.1811 13.5819C15.0652 13.557 14.9629 13.504=
+6 14.8791 13.443C14.8624 13.4306 14.8464 13.4179 14.8312 13.405C14.7855 13.=
+3663 14.7469 13.3256 14.7166 13.2867C14.666 13.2221 14.638 13.1629 14.638 1=
+3.1274C14.638 13.0717 14.5929 13.0266 14.5373 13.0266C14.4816 13.0266 14.43=
+65 13.0717 14.4365 13.1274C14.4365 13.1561 14.4424 13.1881 14.4537 13.2222C=
+14.4706 13.2733 14.4997 13.329 14.5393 13.385C14.579 13.4409 14.6293 13.497=
+1 14.6886 13.5493C14.7479 13.6015 14.8163 13.6496 14.8921 13.6894C14.9869 1=
+3.7392 15.0934 13.7759 15.2084 13.7911C15.2468 13.7962 15.2861 13.7989 15.3=
+262 13.7989C15.5354 13.7989 15.7169 13.7311 15.8548 13.6284C15.8745 13.6137=
+ 15.8934 13.5983 15.9112 13.5823C15.947 13.5502 15.979 13.5157 16.007 13.47=
+95C16.0768 13.3888 16.121 13.2875 16.1338 13.1873C16.1363 13.1673 16.1376 1=
+3.1473 16.1376 13.1274C16.1377 13.0717 16.0925 13.0266 16.0369 13.0266Z"></=
+path>
+                        <path d=3D"M15.0279 12.4876C15.0528 12.5245 15.0847=
+ 12.5564 15.1216 12.5813C15.1354 12.5906 15.15 12.599 15.1652 12.6063C15.19=
+55 12.621 15.2283 12.6313 15.2628 12.6365C15.28 12.6392 15.2977 12.6405 15.=
+3156 12.6405C15.3875 12.6405 15.4543 12.6187 15.5096 12.5812C15.5327 12.565=
+7 15.5538 12.5474 15.5725 12.5268C15.5985 12.4982 15.6176 12.4641 15.6329 1=
+2.4279C15.6506 12.3863 15.6626 12.3416 15.6626 12.2935C15.6626 12.1019 15.5=
+072 11.9465 15.3156 11.9465C15.2198 11.9465 15.1331 11.9854 15.0703 12.0482=
+C15.0676 12.051 15.0656 12.0543 15.0629 12.0572C15.045 12.0763 15.0299 12.0=
+976 15.0167 12.1203C14.9982 12.1522 14.9834 12.1864 14.9758 12.2237C14.9711=
+ 12.2463 14.9687 12.2696 14.9687 12.2936C14.9687 12.3176 14.9712 12.3409 14=
+.9758 12.3635C14.9849 12.4087 15.0029 12.4506 15.0279 12.4876Z"></path>
+                        <path d=3D"M12.4565 8.84868C12.3855 8.76132 12.3087=
+ 8.68396 12.2272 8.61801C12.1457 8.55206 12.0594 8.4974 11.9693 8.45571C11.=
+8793 8.41403 11.7854 8.38506 11.6887 8.37044C11.6404 8.36312 11.5913 8.3593=
+7 11.5416 8.35937C10.7474 8.35937 10.1035 9.3189 10.1035 10.5026C10.1035 11=
+.6862 10.7474 12.5115 11.5416 12.5115C11.5913 12.5115 11.6404 12.5083 11.68=
+87 12.5019C11.7854 12.4892 11.8792 12.4641 11.9693 12.4275C12.0594 12.3909 =
+12.1457 12.3428 12.2272 12.2839C12.3087 12.2252 12.3854 12.1558 12.4565 12.=
+0767C12.5275 11.9976 12.5928 11.9088 12.6514 11.8112C12.8566 11.4697 12.979=
+8 11.0204 12.9798 10.5026C12.9798 9.98471 12.8566 9.50973 12.6514 9.13925C1=
+2.5929 9.03333 12.5275 8.93604 12.4565 8.84868Z"></path>
+                        <path d=3D"M19.318 8.35937C18.5237 8.35937 17.8799 =
+9.3189 17.8799 10.5026C17.8799 11.6862 18.5237 12.5115 19.318 12.5115C20.11=
+23 12.5115 20.7561 11.6862 20.7561 10.5026C20.7561 9.3189 20.1123 8.35937 1=
+9.318 8.35937Z"></path>
+                    </svg>
+                </a>
+
+                <a target=3D"_blank" href=3D"https://backendless.slack.com/=
+" class=3D"footer__social__item">
+                    <svg width=3D"24" height=3D"25" viewBox=3D"0 0 24 25" x=
+mlns=3D"http://www.w3.org/2000/svg">
+                        <path d=3D"M23.8898 12.6671C23.52 11.5684 22.3295 1=
+0.9775 21.2308 11.3473L19.0025 12.0973L17.4923 7.61036L19.6625 6.87993C20.7=
+612 6.51015 21.3521 5.31964 20.9823 4.22095C20.6125 3.12222 19.422 2.53133 =
+18.3233 2.90116L16.1531 3.63159L15.4222 1.45982C15.0523 0.361087 13.8619 -0=
+.229798 12.7632 0.140033C11.6644 0.509816 11.0736 1.70033 11.4434 2.79901L1=
+2.1744 4.97079L7.59281 6.51285L6.87069 4.36737C6.50085 3.26864 5.31039 2.67=
+775 4.2117 3.04758C3.11297 3.41741 2.52209 4.60788 2.89192 5.70656L3.61404 =
+7.85205L1.43003 8.58714C0.331301 8.95697 -0.259582 10.1474 0.110249 11.2461=
+C0.480031 12.3449 1.67055 12.9357 2.76923 12.5659L4.95323 11.8308L6.46347 1=
+6.3178L4.33754 17.0333C3.2388 17.4032 2.64792 18.5936 3.01775 19.6923C3.387=
+53 20.791 4.57805 21.3819 5.67673 21.0121L7.80266 20.2966L8.5779 22.5998C8.=
+94773 23.6985 10.1382 24.2894 11.2369 23.9196C12.3356 23.5498 12.9265 22.35=
+93 12.5567 21.2606L11.7814 18.9574L16.363 17.4153L17.1294 19.6923C17.4992 2=
+0.791 18.6897 21.3819 19.7883 21.012C20.8871 20.6422 21.478 19.4517 21.1081=
+ 18.3531L20.3417 16.0761L22.57 15.3261C23.6687 14.9563 24.2596 13.7659 23.8=
+898 12.6671ZM10.4421 14.9786L8.93191 10.4916L13.5135 8.94955L15.0237 13.436=
+5L10.4421 14.9786Z"></path>
+                    </svg>
+                </a>
+
+                <a target=3D"_blank" href=3D"https://www.youtube.com/backen=
+dless" class=3D"footer__social__item">
+                    <svg width=3D"24" height=3D"25" version=3D"1.1" id=3D"C=
+apa_1" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.or=
+g/1999/xlink" x=3D"0px" y=3D"0px" viewBox=3D"0 0 334.623 334.623" style=3D"=
+enable-background:new 0 0 334.623 334.623;" xml:space=3D"preserve">
+                        <g>
+                            <path d=3D"M175.329,287.017C175.322,287.017,175=
+.329,287.017,175.329,287.017c-38.053,0-79.481-1.202-123.125-3.554
+                                c-25.784-1.414-45.785-21.292-48.632-48.349c=
+-4.762-45.2-4.762-90.83,0-135.625c2.841-26.832,22.815-46.71,48.574-48.33
+                                c75.271-4.737,152.721-4.737,230.312,0c26.06=
+1,1.581,45.586,20.99,48.6,48.304c4.749,43.246,4.756,88.87,0.006,135.632
+                                c-2.744,27.038-22.25,46.472-48.535,48.356C2=
+49.45,285.815,213.382,287.017,175.329,287.017z M166.428,60.452
+                                c-37.931,0-76.113,1.195-113.485,3.541c-19.6=
+85,1.234-34.39,16.048-36.594,36.851c-4.666,43.895-4.666,88.613,0,132.926
+                                c2.204,20.971,16.89,35.778,36.543,36.858c43=
+.413,2.339,84.609,3.535,122.425,3.535c37.751,0,73.51-1.189,106.287-3.528
+                                c19.833-1.427,34.57-16.228,36.659-36.839c4.=
+666-45.862,4.666-90.58,0.006-132.926c-2.294-20.868-17.005-35.688-36.594-36.=
+877
+                                C243.145,61.641,204.365,60.452,166.428,60.4=
+52z M134.576,121.783v88.208l84.706-43.805L134.576,121.783z"></path>
+                        </g>
+                    </svg>
+                </a>
+
+            </div>
+
+            <div class=3D"footer__info">
+                <div class=3D"footer__info__menu">
+                    <ul id=3D"menu-footer-navigation" class=3D"menu"><li id=
+=3D"menu-item-14" class=3D"menu-item menu-item-type-custom menu-item-object=
+-custom menu-item-14"><a href=3D"https://backendless.com/blog">Blog</a></li=
+>
+<li id=3D"menu-item-16" class=3D"menu-item menu-item-type-custom menu-item-=
+object-custom menu-item-16"><a href=3D"http://support.backendless.com/">Sup=
+port</a></li>
+<li id=3D"menu-item-17" class=3D"menu-item menu-item-type-custom menu-item-=
+object-custom menu-item-17"><a href=3D"https://backendless.com/privacy-poli=
+cy">Privacy Policy</a></li>
+<li id=3D"menu-item-20" class=3D"menu-item menu-item-type-custom menu-item-=
+object-custom menu-item-20"><a href=3D"https://backendless.com/terms-of-ser=
+vice">Terms of Service</a></li>
+<li id=3D"menu-item-21" class=3D"menu-item menu-item-type-custom menu-item-=
+object-custom menu-item-21"><a href=3D"https://backendless.com/data-process=
+ing-agreement/">Data Processing</a></li>
+</ul>                </div>
+
+                <div class=3D"footer__info__contacts">
+                    <ul id=3D"menu-footer-contacts" class=3D"menu"><li id=
+=3D"menu-item-23" class=3D"menu-item menu-item-type-custom menu-item-object=
+-custom menu-item-23"><a target=3D"_blank" rel=3D"noopener noreferrer" href=
+=3D"https://goo.gl/maps/Gbo22oJk8SwUsCSp9">7250 Dallas Parkway, Suite 400, =
+Plano, TX 75024</a></li>
+<li id=3D"menu-item-22" class=3D"menu-item menu-item-type-custom menu-item-=
+object-custom menu-item-22"><a href=3D"tel:4087917757">Phone:  408.792.7757=
+</a></li>
+</ul>                </div>
+
+                <div class=3D"footer__info__copy">
+                    =C2=A9 Copyright 2013-2022 Midnight Coders Inc.        =
+        </div>
+            </div>
+
+
+        </div>
+    </div>
+</footer>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--LYFX53nwc4bj02x18ajuOTdrQutRO7tSD7HzVjUOdY----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f6672622-b4b7-421c-92b5-2e841fc31eb5@mhtml.blink
+
+@charset "utf-8";
+
+:root { --wp-admin-theme-color: #007cba; --wp-admin-theme-color-darker-10: =
+#006ba1; --wp-admin-theme-color-darker-20: #005a87; }
+
+.aligncenter { clear: both; }
+
+#fancybox-loading, #fancybox-loading div, #fancybox-overlay, #fancybox-wrap=
+, .fancybox-bg, #fancybox-outer, #fancybox-content, #fancybox-close, #fancy=
+box-title, #fancybox-left, #fancybox-right, .fancy-ico { box-sizing: conten=
+t-box; }
+
+#fancybox-loading { position: fixed; top: 50%; left: 50%; width: 40px; heig=
+ht: 40px; margin-top: -20px; margin-left: -20px; overflow: hidden; z-index:=
+ 111104; display: none; }
+
+#fancybox-loading div { position: absolute; top: 0px; left: 0px; width: 40p=
+x; height: 480px; background-image: url("https://cdn-1.backendless.com/wp-c=
+ontent/plugins/easy-fancybox/images/fancybox.png"); }
+
+#fancybox-overlay { position: absolute; top: 0px; left: 0px; width: 100%; z=
+-index: 111100; display: none; }
+
+#fancybox-tmp { padding: 0px; margin: 0px; border: 0px; overflow: auto; dis=
+play: none; }
+
+#fancybox-wrap { position: absolute; top: 0px; left: 0px; padding: 20px; z-=
+index: 111101; display: none; }
+
+#fancybox-outer { position: relative; width: 100%; height: 100%; background=
+: rgb(255, 255, 255); box-shadow: rgb(17, 17, 17) 0px 0px 20px; }
+
+#fancybox-content { width: 0px; height: 0px; padding: 0px; position: relati=
+ve; overflow-y: auto; z-index: 111102; border: 0px solid rgb(255, 255, 255)=
+; background: padding-box rgb(255, 255, 255); }
+
+#fancybox-close { position: absolute; top: -15px; right: -15px; width: 30px=
+; height: 30px; background: url("https://cdn-1.backendless.com/wp-content/p=
+lugins/easy-fancybox/images/fancybox.png") -40px 0px transparent; z-index: =
+111103; display: none; }
+
+#fancybox-left, #fancybox-right { position: absolute; bottom: 0px; height: =
+100%; width: 35%; background: initial; z-index: 111102; display: none; }
+
+#fancybox-left { left: 0px; }
+
+#fancybox-right { right: 0px; }
+
+#fancybox-left-ico, #fancybox-right-ico { position: absolute; top: 50%; lef=
+t: -9999px; width: 30px; height: 30px; margin-top: -15px; z-index: 111102; =
+display: block; }
+
+#fancybox-left-ico { background-image: url("https://cdn-1.backendless.com/w=
+p-content/plugins/easy-fancybox/images/fancybox.png"); background-position:=
+ -40px -30px; }
+
+#fancybox-right-ico { background-image: url("https://cdn-1.backendless.com/=
+wp-content/plugins/easy-fancybox/images/fancybox.png"); background-position=
+: -40px -60px; }
+
+#fancybox-title { z-index: 111102; }
+
+.select2-container { display: block; position: relative; vertical-align: mi=
+ddle; margin-top: -1px; left: -1px !important; right: -1px !important; }
+
+.select2-container .select2-selection--single { display: block; }
+
+.select2-container .select2-selection--single .select2-selection__rendered =
+{ display: block; text-overflow: ellipsis; white-space: nowrap; padding-lef=
+t: 0px; padding-right: 0px; overflow: hidden; }
+
+.select2-hidden-accessible { border: 0px !important; clip: rect(0px, 0px, 0=
+px, 0px) !important; clip-path: inset(50%) !important; height: 1px !importa=
+nt; overflow: hidden !important; padding: 0px !important; position: absolut=
+e !important; width: 1px !important; white-space: nowrap !important; }
+
+.select2-container--default .select2-selection--single { padding: 13px 20px=
+ 14px; }
+
+.select2-container--default .select2-selection--single .select2-selection__=
+rendered { color: rgb(91, 91, 91); }
+
+.select2-container--default .select2-selection--single .select2-selection__=
+arrow { height: 26px; position: absolute; top: 0px; bottom: 0px; margin: au=
+to; right: 10px; width: 20px; }
+
+.select2-container--default .select2-selection--single .select2-selection__=
+arrow b { border-color: rgb(136, 136, 136) transparent transparent; border-=
+style: solid; border-width: 5px 4px 0px; height: 0px; left: 50%; margin-lef=
+t: -4px; margin-top: -2px; position: absolute; top: 50%; width: 0px; }
+
+::before, ::after, a, b, body, button, div, form, h1, header, html, img, in=
+put, li, p, select, span, ul { font: inherit; vertical-align: baseline; bor=
+der: none; outline: 0px; margin: 0px; padding: 0px; box-sizing: border-box;=
+ }
+
+header { display: block; }
+
+body { line-height: 1em; }
+
+a { text-decoration: none; }
+
+img { max-width: 100%; vertical-align: top; }
+
+ul { list-style: none; }
+
+button, input, select { background: none; }
+
+body { font: 400 18px / 28px "Apercu Pro"; color: rgb(113, 121, 133); }
+
+@media (max-width: 899px) {
+  body { font-size: 16px; line-height: 24px; }
+}
+
+h1 { font: 700 54px / 64px "Apercu Pro"; color: rgb(48, 48, 66); }
+
+@media (max-width: 899px) {
+  h1 { font-size: 46px; line-height: 48px; }
+}
+
+@media (max-width: 600px) {
+  h1 { font-size: 28px; line-height: 32px; }
+}
+
+.container { padding-left: 40px; padding-right: 40px; margin-left: auto; ma=
+rgin-right: auto; width: 1334px; }
+
+@media (max-width: 1439px) {
+  .container { width: 1108px; }
+}
+
+@media (max-width: 1179px) {
+  .container { width: 862px; }
+}
+
+@media (max-width: 899px) {
+  .container { width: 710px; padding-left: 20px; padding-right: 20px; }
+}
+
+@media (max-width: 767px) {
+  .container { width: 600px; }
+}
+
+@media (max-width: 600px) {
+  .container { width: auto; }
+}
+
+#fancybox-close { display: none !important; }
+
+input::-webkit-input-placeholder { color: rgb(226, 230, 234); opacity: 1; }
+
+.button { display: inline-block; background: rgb(80, 86, 229); border: 1px =
+solid rgb(80, 86, 229); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.25)=
+ 0px 2px 8px; color: rgb(255, 255, 255); padding: 11px 20px 12px; font-size=
+: 16px; line-height: 16px; text-align: center; }
+
+.button--transparent { background: transparent; color: inherit; }
+
+.control-row { margin-bottom: 15px; padding-left: 20px; padding-right: 20px=
+; }
+
+.control-row:last-child { margin-bottom: 0px; }
+
+.control-wrapper { display: block; background: rgb(255, 255, 255); border: =
+1px solid rgb(191, 199, 208); border-radius: 4px; position: relative; }
+
+.control { width: 100%; font-size: 1em; line-height: 1em; vertical-align: t=
+op; border-radius: 5px; padding: 15px 20px; }
+
+.control--input { height: 49px; }
+
+.header { background: rgb(18, 18, 23); z-index: 100; position: relative; }
+
+@media (min-width: 1179px) {
+  .header { padding-top: 80px; }
+  .header-wrapper { background: rgb(18, 18, 23); position: fixed; width: 10=
+0%; top: 0px; z-index: 100; transform: translateY(-100%); transform-origin:=
+ center top; }
+  .header-wrapper.show { transform: translateY(0px); }
+}
+
+.header::after { content: ""; clear: both; display: table; }
+
+.header__logo { width: 195px; float: left; padding-top: 26px; padding-botto=
+m: 30px; position: relative; z-index: 101; }
+
+.header__logo-link { display: block; text-indent: -999em; background: url("=
+https://cdn-2.backendless.com/wp-content/themes/backendless/assets/images/l=
+ogos/logo.svg") center center / contain no-repeat; padding-bottom: 13%; hei=
+ght: 0px; }
+
+.header__aside { float: right; color: rgb(191, 199, 208); padding-top: 20px=
+; }
+
+.header__aside__button { margin-left: 10px; }
+
+@media (max-width: 600px) {
+  .header__aside__button--login { display: none; }
+}
+
+@media (max-width: 767px) {
+  .header__aside__button--signup { display: none; }
+}
+
+.header__aside__button--signup-mobile { display: none; }
+
+@media (max-width: 767px) {
+  .header__aside__button--signup-mobile { display: inline-block; }
+}
+
+@media (max-width: 400px) {
+  .header__aside__button { display: none; }
+}
+
+.header__aside::after { content: ""; clear: both; display: table; }
+
+.header__burger { float: left; width: 35px; height: 30px; margin-right: 20p=
+x; position: relative; margin-top: 24px; z-index: 101; display: none; }
+
+@media (max-width: 1179px) {
+  .header__burger { display: block; }
+}
+
+.header__burger::before, .header__burger::after, .header__burger span::befo=
+re, .header__burger span::after { content: ""; display: block; height: 1px;=
+ background: rgb(255, 255, 255); position: absolute; left: 0px; right: 0px;=
+ margin: auto; transform-origin: center center; }
+
+.header__burger::before { top: 0px; }
+
+.header__burger::after { bottom: 0px; }
+
+.header__burger span::before, .header__burger span::after { top: 0px; botto=
+m: 0px; }
+
+.header__menu { float: left; padding-top: 34px; }
+
+@media (max-width: 1179px) {
+  .header__menu { display: none; }
+}
+
+.header__menu > .menu > .menu-item-has-children > .sub-menu::after { conten=
+t: ""; display: block; width: 13px; height: 13px; transform: rotate(45deg);=
+ background: rgb(255, 255, 255); position: absolute; left: 0px; right: 0px;=
+ top: -7px; margin: auto; }
+
+.header__menu > .menu > .menu-item-has-children > a::after { content: ""; w=
+idth: 0px; height: 0px; border-style: solid; border-width: 8px 4px 0px; bor=
+der-color: rgb(191, 199, 208) transparent transparent; display: inline-bloc=
+k; vertical-align: middle; margin-left: 8px; margin-top: 2px; }
+
+.header__menu > .menu .sub-menu { visibility: hidden; transform: scaleY(0) =
+translateX(-50%); transform-origin: center top; position: absolute; backgro=
+und: rgb(255, 255, 255); padding: 40px 30px; border-radius: 4px; box-shadow=
+: rgba(0, 0, 0, 0.1) 1px 1px 20px; left: 50%; top: 100%; }
+
+.header__menu > .menu .sub-menu .menu-item { margin-left: 0px; float: none;=
+ white-space: nowrap; }
+
+.header__menu > .menu .sub-menu .menu-item:last-child { margin-bottom: 0px;=
+ }
+
+.header__menu > .menu .sub-menu .menu-item a { font-size: 24px; line-height=
+: 32px; color: rgb(18, 18, 23); }
+
+.header__menu > .menu .sub-menu .menu-item .sub-menu { position: static; bo=
+x-shadow: none; background: transparent; padding: 20px 0px 0px; transform: =
+none; overflow: hidden; }
+
+.header__menu > .menu .sub-menu .menu-item .sub-menu .menu-item { width: 50=
+%; min-width: 200px; float: left; white-space: normal; }
+
+.header__menu > .menu .sub-menu .menu-item .sub-menu .menu-item:nth-child(2=
+)::after { content: ""; width: 400px; display: block; }
+
+.header__menu > .menu .sub-menu .menu-item .sub-menu .menu-item a { font-si=
+ze: 14px; line-height: 24px; color: rgb(48, 48, 66); }
+
+.header__menu > .menu .sub-menu .menu-item .sub-menu::after { content: ""; =
+clear: both; display: table; }
+
+.header__menu > .menu .sub-menu::after { content: ""; clear: both; display:=
+ table; }
+
+.header__menu .menu-item { display: block; float: left; margin-left: 40px; =
+padding-bottom: 25px; position: relative; }
+
+@media (max-width: 1439px) {
+  .header__menu .menu-item { margin-left: 30px; }
+}
+
+.header__menu .menu-item a { color: rgb(191, 199, 208); font-size: 16px; li=
+ne-height: 16px; display: block; }
+
+@media (max-width: 1439px) {
+  .header__menu .menu-item a { font-size: 14px; }
+}
+
+.header__menu .menu-item a .icon { display: inline-block; width: 16px; heig=
+ht: 16px; background: center center / contain no-repeat; margin-right: 10px=
+; vertical-align: middle; }
+
+.header__menu::after { content: ""; clear: both; display: table; }
+
+.blog-top-panel { padding-top: 15px; background: rgb(80, 86, 229); }
+
+@media (max-width: 600px) {
+  .blog-top-panel-wrapper { padding-top: 0px !important; }
+}
+
+@media (max-width: 600px) {
+  .blog-top-panel { padding-bottom: 15px; }
+}
+
+.blog-top-panel > .container::after { content: ""; clear: both; display: ta=
+ble; }
+
+.blog-top-panel__title { float: left; line-height: 48px; font-size: 36px; c=
+olor: rgb(255, 255, 255); }
+
+@media (max-width: 1179px) {
+  .blog-top-panel__title { width: auto; float: none; }
+}
+
+.blog-top-panel__form { margin-left: -20px; margin-right: -20px; width: 60%=
+; float: right; }
+
+@media (max-width: 1179px) {
+  .blog-top-panel__form { width: auto; float: none; margin-top: 10px; }
+}
+
+.blog-top-panel__form::after { content: ""; clear: both; display: table; }
+
+.blog-top-panel__form > .control-row { float: left; padding: 0px 20px; widt=
+h: 50%; }
+
+@media (max-width: 600px) {
+  .blog-top-panel__form > .control-row { width: 100%; }
+}
+
+.blog-top-panel__form .control-wrapper { background-color: rgb(143, 148, 25=
+5); border-color: rgb(143, 148, 255); }
+
+.blog-top-panel__form .select2-container--default .select2-selection--singl=
+e { padding-top: 10px; padding-bottom: 10px; }
+
+.blog-top-panel__form .select2-container--default .select2-selection--singl=
+e .select2-selection__rendered { color: rgb(255, 255, 255); }
+
+.blog-top-panel__form .select2-container--default .select2-selection--singl=
+e .select2-selection__arrow b { border-color: rgb(255, 255, 255) transparen=
+t transparent; }
+
+.blog-top-panel__form__search::before { content: ""; display: block; width:=
+ 12px; height: 12px; background: url("https://cdn-3.backendless.com/wp-cont=
+ent/themes/backendless/assets/images/icons/search-white.svg") center center=
+ / contain no-repeat; position: absolute; top: 0px; bottom: 0px; left: 20px=
+; margin: auto; }
+
+.blog-top-panel__form__search .control--input { padding-left: 50px; padding=
+-top: 14px; padding-bottom: 14px; color: rgb(255, 255, 255); }
+
+.post-page { position: relative; padding-bottom: 160px; }
+
+.post-page__header { position: relative; padding-top: 80px; }
+
+@media (max-width: 899px) {
+  .post-page__header { padding-top: 40px; }
+}
+
+.post-page__header::before { content: ""; display: block; bottom: 0px; widt=
+h: 100%; left: 0px; top: 0px; margin-top: -6%; position: absolute; backgrou=
+nd: linear-gradient(rgb(255, 255, 255) 0%, rgb(244, 246, 247) 100%); transf=
+orm: skewY(6deg); z-index: -1; }
+
+.post-page__header-wrapper { padding-left: 60px; padding-right: 60px; }
+
+@media (max-width: 1439px) {
+  .post-page__header-wrapper { padding-left: 30px; padding-right: 30px; }
+}
+
+@media (max-width: 1179px) {
+  .post-page__header-wrapper { padding-left: 0px; padding-right: 0px; }
+}
+
+.post-page__header-info { text-align: center; padding-left: 60px; padding-r=
+ight: 60px; }
+
+@media (max-width: 1439px) {
+  .post-page__header-info { padding-left: 30px; padding-right: 30px; }
+}
+
+@media (max-width: 1179px) {
+  .post-page__header-info { padding-left: 0px; padding-right: 0px; }
+}
+
+.post-page__header-author { font-size: 16px; margin-bottom: 5px; color: rgb=
+(191, 199, 208); }
+
+@media (max-width: 1179px) {
+  .post-page__header-author { font-size: 14px; }
+}
+
+.post-page__header-author a { color: rgb(48, 48, 66); border-bottom: 1px so=
+lid transparent; }
+
+.post-page__header-tags { font-size: 12px; line-height: 18px; padding-botto=
+m: 30px; }
+
+.post-page-wrapper { padding-left: 60px; padding-right: 60px; }
+
+@media (max-width: 1439px) {
+  .post-page-wrapper { padding-left: 30px; padding-right: 30px; }
+}
+
+@media (max-width: 1179px) {
+  .post-page-wrapper { padding-left: 0px; padding-right: 0px; }
+}
+
+.post-page__content { margin-bottom: 160px; padding-left: 60px; padding-rig=
+ht: 60px; }
+
+@media (max-width: 1439px) {
+  .post-page__content { padding-left: 30px; padding-right: 30px; }
+}
+
+@media (max-width: 1179px) {
+  .post-page__content { padding-left: 0px; padding-right: 0px; }
+}
+
+.post-page__content p { margin-bottom: 30px; }
+
+.post-page__content img { margin-top: 15px; margin-bottom: 15px; height: au=
+to; }
+
+.aligncenter { display: block; margin: 0px auto; }
+------MultipartBoundary--LYFX53nwc4bj02x18ajuOTdrQutRO7tSD7HzVjUOdY----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3a0accc6-9894-40d8-ab07-d51fa20e3b20@mhtml.blink
+
+@charset "utf-8";
+
+.rll-youtube-player { position: relative; padding-bottom: 56.23%; height: 0=
+px; overflow: hidden; max-width: 100%; }
+
+.rll-youtube-player:focus-within { outline: currentcolor solid 2px; outline=
+-offset: 5px; }
+
+.rll-youtube-player iframe { position: absolute; top: 0px; left: 0px; width=
+: 100%; height: 100%; z-index: 100; background: 0px 0px; }
+
+.rll-youtube-player img { inset: 0px; display: block; margin: auto; max-wid=
+th: 100%; width: 100%; position: absolute; border: none; height: auto; tran=
+sition: all 0.4s ease 0s; }
+
+.rll-youtube-player img:hover { filter: brightness(75%); }
+
+.rll-youtube-player .play { height: 100%; width: 100%; left: 0px; top: 0px;=
+ position: absolute; background-image: url("https://cdn-2.backendless.com/w=
+p-content/plugins/wp-rocket/assets/img/youtube.png"); background-position: =
+center center; background-size: initial; background-repeat: no-repeat; back=
+ground-attachment: initial; background-origin: initial; background-clip: in=
+itial; cursor: pointer; border: none; background-color: transparent !import=
+ant; }
+------MultipartBoundary--LYFX53nwc4bj02x18ajuOTdrQutRO7tSD7HzVjUOdY----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css?family=Source%20Sans%20Pro%3A400%2C400i%2C600%2C600i&subset=cyrillic%2Ccyrillic-ext%2Clatin-ext&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2") format("woff2"); un=
+icode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE=
+2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2") format("woff2"); un=
+icode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2") format("woff2"); un=
+icode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2") format("woff2"); un=
+icode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2") format("woff2"); un=
+icode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1=
+B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2") format("woff2"); un=
+icode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+20=
+20, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, =
+U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, =
+U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2") format("woff2")=
+; unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2") format("woff2")=
+; unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2") format("woff2")=
+; unicode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2") format("woff2")=
+; unicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, =
+U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: italic; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2") format("woff2"); u=
+nicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+3=
+04, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+22=
+12, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2") format("woff2"); unico=
+de-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-=
+FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2") format("woff2"); unico=
+de-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2") format("woff2"); unico=
+de-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2") format("woff2"); unico=
+de-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2") format("woff2"); unico=
+de-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,=
+ U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2") format("woff2"); unico=
+de-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020,=
+ U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2") format("woff2"); unicode-=
+range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+3=
+08, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2=
+215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2") format("woff2"); u=
+nicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+F=
+E2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2") format("woff2"); u=
+nicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2") format("woff2"); u=
+nicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2") format("woff2"); u=
+nicode-range: U+370-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2") format("woff2"); u=
+nicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-=
+1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2") format("woff2"); u=
+nicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2=
+020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sourcesan=
+spro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2") format("woff2"); unic=
+ode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304,=
+ U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,=
+ U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--LYFX53nwc4bj02x18ajuOTdrQutRO7tSD7HzVjUOdY------
